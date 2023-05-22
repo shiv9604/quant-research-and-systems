@@ -474,7 +474,87 @@ We can see its performance according to time frame like 1 day, last 5 days, week
 
     5. Finally we can analyse the price and the breakout or breakdown and we can take entry in the stock while breakout or breakdown or while at the retracement price derived by the fibbonacci level, By setting stop loss low of the entry candle or low of previous candel based on the risk apetite. 
     
-### Volatility
+### Volatility (Average True Range `ATR`)
+
+Volatility means the movement between higher high's and lower low's are consistantly changing ans stock prices are increasing rapidly as well as falling rapidly as well.
+
+Average true range calculates the range of stock `Difference between daily high and low` but the Average true range calculates `previous day close and current day's high if stock price increased` `Previous day's close and current day's low if stock price decreased` which gives us an range chart which indicates the volatility of the stock.
+
+ATR get increased even if stock prices decreasing drastically or stock price incresing significantly No matter stock prices are draining or growing, It just indicates the volality of the stock.
+
+If ATR is getting increased means stock is becoming volatile and there is a probability of breakout or breakdown due to increasing volatility and bigger movements can occur in the stock price.
+
+If ATR is getting decreased means stock volatility is decreasing and stock price will start consolidating in specific range.
+
+<img src="./ATR.png">
+
+We Can Draw support and resistance levels in ATR as well and we can chec the breakout of the volatility and identify if it will breakout or breakdown on the basis of moving averages, volume, supertrend and price action.
+
+We can use ATR as stoploss as well. We can Calculate `(Current Price Closing - ATR value) = stopLoss` which determines if we keep the stop loss lesser than this then there is more chance to hit your stopLoss Because that stock moves normally in that range.
+
+### Volatility (Bollinger Bands)
+Bollinger band is algo an indicator which expresses about volatility which gives us an range in which stock price will be move.
+
+<img src="./bollinger-bands.png">
+
+In Above Image range upper line will be upper range and lower line will be lower range the middle line is Moving Average of period 20 which we need to change to 21 as its fibbonacci number and as we learned above.
+
+**Applications :-**
+
+- If the stock price tries to break the upper limit then it will retrace most of the time on middle line and If stock price tries to break the lower limit then it will resist on middle line so We can identify consider support and resistance as middle line depending on trend.
+
+- If the middle line being resistance and it gives breakout then we take entry in tht trade adn we can keep the take profit as its upper limit, supertrend indication of sell and volume for sell as well And vise versa if middle line is being as support and it gives breakdown.
+
+- If bollinger band range reduces it gives an indication of the stock price will consolidate or preparing or big movement.
+
+We can set alert on any platform like tradingview for price coming to middle line for retracement, price crossed down middle line and price crossed up from middle line for breakout and we can trade in it.
+
+
+### How to Exit Trade (VWAP Indicator)
+
+VWAP is very important indicator to understand the movement of stock operator and the important price points based on the traded volume on perticular day for delivery.
+
+VWAP is the weighted avergae price for the stock trade price to its volume which mostly indicates the intention of stock operator in the charts.
+
+**VWAP Indicator :-**
+
+We need to insert the VWAP indicator in tradingview chart for the analysis and we need to uncheck its Standerd deviation to see pure VWAP line based on chart frame.
+
+<img src="./VWAP-SETTINGS.png" alt="VWAP-SETTINGS.png">
+
+**VWAP View :-**
+
+
+The Blue line above the bollinger bands indicating the VWAP which could be the importance price point for support and resistance as well.
+
+<img src="./VWAP.png" alt="VWAP-SETTINGS.png">
+
+
+**Applications :-**
+
+- VWAP indicates the important price point for which delivery happend and most volume traded at some price point which is and important price for support and resistance.
+
+- If the stock price is trading above the its VWAP then stock is in uptrend and viceversa for downtrend, So this will be an additional confirmation about the trend which could lead towards breakdown or breakout.
+
+- We should use VWAP most probably for the exit purpose. When price goes down to session or Weekly VWAP then we should take exit while buying and viceversa for selling.
+
+
+### Relative Strength Index
+
+We have studied about the relative strength related to its visa based index which tells us is it overperforming the index or underperforming the index.
+
+But the RSI is a range between 0 to 100 form which we are looking to the Relative Strength Index calculated by formula on the price action of last 14 days which indicates us the trend strength of the stock. If is it having bullish strength or bearish strength.
+
+<img src="./RSI-SETTINGS.png">
+
+In the settings we need to set the RSI range from `70/30` to `50/50` fomr which we can decide that if the RSI is greater than 50 then stock having strength for buying and if strength is below 50 then stock having strength for selling from last 14 days.
+
+It gives us more information about the price action and the strength of trend.
+
+<img src="./RSI.png" alt="RSI.png">
+
+
+
 
 
 
