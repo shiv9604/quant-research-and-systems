@@ -1746,44 +1746,6 @@ We get thousands of opportunities in forex market so in such scenarios when you 
     `Note :- In such news scenarios we can trade the currency pairs which only includes either of currency affected with news & checkout if news is positive and currency is base currency then market will go up else go down vice versa.`
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Stratagies for News Trading :-**
 
 1. **STRADDLES STRATEGY :-**
@@ -1820,15 +1782,6 @@ We get thousands of opportunities in forex market so in such scenarios when you 
     If you have missed the momentum candle of news event in the current trend checkout for reversal candlestick, chart pattern & take entry on that pattern by keeping stoploss above the pattrn levels or according to pattern rules.
 
     Set the take profit on the levels from where market grabbed momentum and keep triling stop loss levels on retracements or new levels formation, You can add more quantiy as well with the same to maximize the benifits.
-
-
-### Difference between professional & Profitable trader
-
-Professional trader does have knowledge about trading & technicals but not making consistant profits. 
-
-Profitable forex trader is trader which makes the profits the consistantly with his setup & strategy.
-
-Profitablity comes with experience & learning from the mistakes throughout our trading journey.
 
 ### Risk to Reward
 
@@ -1868,10 +1821,100 @@ We have risk to reward ratio of `1:1, 1:2, 1:3, 1:4 & 1:5` and so on as per our 
 
 As we have understood that risk to reward defines a lot about profitablity as forex trader so we should prepare our trading system according to this that which would be able to find us quality trades over the quantity which would lead us to profitability.
 
+### Difference between professional & Profitable trader
+
+Professional trader does have knowledge about trading & technicals but not making consistant profits. 
+
+Profitable forex trader is trader which makes the profits the consistantly with his setup & strategy.
+
+Profitablity comes with experience & learning from the mistakes throughout our trading journey.
+
+### Trading Plan
+
+Trading plan is the plan which defines why, when, how and what to be done before trade is executed and managed, & Specially traders personality, expectations, risk & management rules etc.
+
+Being as profitable forex trader strategy only plays 30% role throughout 100% but trading plan consists of 70%. Even if you have crappy strategy with low winning rate still you would be profitable if you have solid rock trading plan.
+
+**Why traders need trading plan?**
+
+Without an trading plan any profit made in forex market considered as gambling, because you cant repeat that moment again.
+
+But if you win the trade following your trading plan consisting strategy, rules & risk managment then it can be repeated over the time for consistant profitablity.
+
+**Benifits of having trading plan :-**
+
+- Trading plan is like GPS which takes us where we are now where blowing account to where we want to be an profitale trader.
+
+- It Reduces stress because you are follwing your trading plan, even if you have loss still you are one step ahead to winning.
+
+- It makes trading simpler than trading without the plan.
+
+- With the help of trading plan, Analysis of loss trades we are able to identify the mistakes & we can make the corrections.
+
+- Trading plan minimizes your emotions in trading & maximizes your descipline in trading.
+
+
+### Tips to Stick to your trading plan
+
+Even if you make best trading plan and if you are not follwing your trading plan then its equivalent to trading without the plan.
+
+**Factors for sticking to your trading plan :-**
+
+- Trading plan should be personalised to every individual of their capital, risk apetite, risk to reward ratio, their expectaions & goals etc.
+
+- Your trading plan should be flexible enough to be tailored for your personal needs & requirements.
+
+- Trading plan should be based on reality, not on the hope & dreams, Reality states how much time we can give, how much i can take loss per day etc.
+
+- Your trading plan can encounter some losses at initial or some stage of your trading journey but you should be ready to accept those losses or even profits which comes from it.
+
+- Profit from undisciplined trading are short-lived & cannot be repeated to achieve profitablity.
+
+### Keys For Profitable Trading Plan
+
+There are 4 key questions you should ask yourself while building your trading plan, with the help of those answers you will get clarity how your trading plan should be.
+
+**Questions :-**
+
+1. What are your Forex Expectations.
+   
+   We should be clear with our expectations from the forex like how much returns we are expecting, how much risk we are ready to take which should be in realistic manner.
+
+   To much ambition & unrealistic expectations of forex traders have ended carrears of many forex traders.
+
+2. How much you are ready to lose.
+
+    As we know that we have 90/90/90 rule in which 90% of new traders loose their 90% of their capital in their first 90 days.
+
+    But we need to take risks in calculating manner, if you cant bare that risk it should not impact you financially & emotionally.
+
+    We should not borrow money for forex trading ever because you dont even know if you will survive in the market or not, you should never start trading by borrowing credit.
+
+3. Time availability and your routine for forex trading.
+   
+   As we know that everyone have different personalities according to their emotions & their working in their personal life your trading plan set your style or trading according to your availabitlity.
+
+   Longer the timeframe will be more we will have flexibitlity, & we dont need to be on screen all the time.
+
+   You need to set your schedule for forex trading & tweaking and modifying your system which will leads to you an desciplined trader.
+
+4. What forex software hardware you are going to use.
+
+    Select your trading software, hardware & tools for your setup which gives you indication about your entries according to your trading strategy.
+
+    You need to stick to your system for mastering it along with the time & strategy, and you should modify it based on results & yours learnings from failed trades.
+
+### Trading Plan Checklist
+
+When you are done making your trading plan you should be able to answer this following question & check if your trading plan is able to answer it well.
+
+**Questions :-**
+
+1. 
 
 
 
-  
+
 
 
 
