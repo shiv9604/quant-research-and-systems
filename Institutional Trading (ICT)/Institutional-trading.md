@@ -1700,6 +1700,1043 @@ As you can see in the chart for usdjpy above near around january it given brake 
 
 `Note :- We dont decide our bias based on only intrest rates but we wait for central banks movement to get aligned into the direction of intrest rates and thats when we also plan for entries.`
 
+### Institutional order flow & understanding liquidity
+
+We start our analysis with weekly timeframe by trying to understand what price action is goingon weekly timeframe and we try to understnad our weekly direction.
+
+We look for clear and obviously levels market can go for grabbing the liquidity which means the stoplosses of the retail traders, to find consistant profitability and consistant setups we look for run/draw on liquidity.
+
+<img src="./assets/mmm/weeky-liquidity.png">
+
+So if we are looking at the last candle in the above chart we can see there is clean and obvious price level where stoploss would be resting of the people whoe took short on that retracement, so according to that we can understand that price will be bullish atleast till drawing through that nearest liquidity pool.
+
+In such scenarios we will look for buying on or below the opening price so we can take benifit out of our bullish weekly range.
+
+<img src="./assets/mmm/daily-ob.png">
+<img src="./assets/mmm/ob-hourly-levels.png">
+
+Until now we have bias that our weekly range will be bullish according and now we have switched to daily timeframe in monday's candle been bullish & tuesday's candle returned back to order block candle on daily timeframe.
+
+The second image mentioned above in which we have shifted to hourly timeframe & blue line is orderblock level to which price took out preivous low's having trailed stoploss orders of previously long positioned traders and entered into orderblock and rallyed up.
+
+<img src="./assets/mmm/ob-kllzone-entry.png">
+
+You can notice in the above image that price has retraced into daily level order block in tuesday's london open kill zone where all analysis points are getting lined up such as weekly bias going bullish to takeout short term high's liquidity, on the daily level it started move and orderblock formed on daily level and on the higher timeframe it tooks out previous swing lows for liquidity and enter into orderblock in tuesday's london open so all the things are getting lined up into the single direction which makes it high probability trade.
+
+As a trader we need to find out multiple confluences indicating in same direction of your analysis thats where high probability setups forms.
+
+
+**Note :- If price takes out swing high or low and then enters into orderblock according to daily or weekly direction then its an high probability orderblock, not every candle prior to move is an order block & gives us right results.**
+
+
+
+### Market Structure, Key Level & SMT
+
+- **Market Maker Buy Model :-**
+
+  As we know that key levels are the swing high's & low's on higher timeframe such as monthly, weekly and daily but we can consider 4h key levels as well on less priority.
+
+  <img src="./assets/mmm/breaker-model.png">
+
+  We wait untill price comes near to key level and it creates market maker bullish breaker model as we have seen in `previous market maker primer series` in which we wait for brakedown of importnat level & when price reversed in bullish direction and given breakout to its previous swing and when it retraces we take entry into trade as shown in first image.
+
+  <img src="./assets/mmm/smt-divergence.png">
+
+  Another model is when price comes near to key level and it creates divergence as shown in second picture it fails to create more lower low and when its co-related currency made its higher high such as `eurusd failed to make lower low on important level and usd is continuing its higher high's` then its an high probability buy model and we can take entry into those trades.
+
+
+  <img src="./assets/mmm/mm-buy-model.png">
+
+  In the consolidation in green area smart money will take huge sell positions to push the price lower & lower till the key level with bearish market structure and consolidations and when they enter into smart money reversal zone they take out imporant levels liquidity and grab huge quantities take the price higher till or the previous consolidations high.
+
+  We as conservative trader we dont enter into grey area which is smart money reversal area, we wait for some sort of confirmation such as breaker moedel or SMT divergence and when it gives its next retracement thats where we take entry to be along with commercial traders.
+
+  <img src="./assets/mmm/mmbm-ex.png">
+  <img src="./assets/mmm/mmbm-smt-ex.png">
+  <img src="./assets/mmm/mmbm-smt-ex2.png">
+
+  Here is the example of our above analysis.
+
+- **Market Maker Sell Model :-**
+
+    As we know that key levels are the swing high's & low's on higher timeframe such as monthly, weekly and daily but we can consider 4h key levels as well on less priority.
+
+  <img src="./assets/mmm/braker-sell-model.png">
+    
+    We wait untill price comes near to key level and it creates market maker bearish breaker model as we have seen in `previous market maker primer series` in which we wait for breakout of importnat level & when price reversed in bearish direction and given brakedown to its previous swing high then it retraces that's when we take entry into trade as shown in first image.
+
+  <img src="./assets/mmm/smt-divergence-bearish.png">
+
+    Another model is when price comes near to key level and it creates divergence as shown in above image it fails to create more lower low and when its co-related currency made its higher high such as `eurusd failed to make lower low on important level and usd is continuing its higher high's` then its an high probability buy model and we can take entry into those trades.
+
+  <img src="./assets/mmm/mm-sell-model.png">
+
+   In the consolidation in green area smart money will take huge buy positions to push the price higher & higher till the key level with bullish market structure and consolidations and when they enter into smart money reversal zone they take out imporant levels liquidity and grab huge quantities take the price lower till or the previous consolidations low.
+
+  We as conservative trader we dont enter into grey area which is smart money reversal area, we wait for some sort of confirmation such as breaker model or SMT divergence and when it gives its next retracement thats where we take entry to be along with commercial traders.
+
+### Time & Price Theory
+
+<img src="./assets/mmm/time-price-weekly.png">
+
+According to price time theory we look for weeky lows in bullish week likely to form on mondays, tuesday's and wednesday's new york open, and in bearish enviornments the weekly high likely to form on mondays, tuesday's and wednesday's new york open.
+
+We should look for the entries only on monday, tuesday's and wednesday for weekly range and we should take entry either at the opening price or when price is trading below opening price for bullish week and vice versa for bearish week.
+
+`Note :- Don't take any entries on thursday and friday in terms of weekly range because on those days it would have already expanded.`
+
+<img src="./assets/mmm/time-price-weekly2.png">
+<img src="./assets/mmm/time-price-weekly3.png">
+
+Lets brakedown our entry and checkout the price action on 15m timeframe, as we have discussed above we will be seeking entries on monday's, tuesday's and wednesday's.
+
+As we can noitice in the above image we have kill zones marked with orange lines, and we dont look for entry anywhere in those 3 days but we look for entries in either london or new york kill zones.
+
+As you can see on the mondays in the london we have optimal trade entry and in new york kill zone how price rallyed after braking the previous low's but ICT dont recommends to trade on mondays because in the tuesday's trading range there is possibliy it can take out mondays entries for liquidity.
+
+On the tuesday as you can see price had ran towards mondays new york low of monday and took out the trades and if we consider mondays low & tuesday's run on liquidy we are having an optimal trade entry and at those levels with the confirmation of previous swing low liquidity run so we can take for entry in tuesday's london open most of the time.
+
+We need to combine the setup with time such as kill zones at the first place and its an crucial factor for reading price, in those timeframes we need to buy below opening price in bullish enviornments & sell above opening price in bearish enviornments with entry pattern can be anythig such as run on `previous swing levels, orderblock entry or optimal trade entry`. 
+
+The reason this things work at certain timings of day is central banks price delivery algorims works timebased but not on the based on what the majority of people doing
+
+### Daily Bias & Generic Market Macros
+
+<img src="./assets/mmm/mon-daily-range.png">
+<img src="./assets/mmm/tue-daily-range.png">
+
+
+Priorly as we have analyzed our weekly prespective is bullsish for taking our the Sell Side liquidity, on that same basis we are diving into the daily range.
+
+We are having look into the daily range on `5m timeframe` on which we are looking for daily macro's.
+
+We need to buy below the opening price which is `12:00AM EST` & `9:30AM IST` which ususally happens in london open kill zone, and we wait till london close for the day high to form and we need to exit our trade.
+
+<img src="./assets/mmm/wed-daily-range.png">
+
+Above image is wednsday daily range on fomc day where every swing high and low is getting taken out and not letting any position be safe in the market.
+
+`Note :- We will not refer opening price on thursday's and friday's because we are already late in the week and we would be looking for other setups such as OTE, OB or run on swing levels.`
+
+<img src="./assets/mmm/thurs-daily-range.png">
+
+As you can see in the image above we will be not referring for opening price and we in the london open you can see we got optimal trade entry and other setups such as orderblock or run on swing levels will work.
+
+<img src="./assets/mmm/fri-daily-range.png">
+
+In the above image its the daily range for friday in which we broke thursday's high and also we have reached to wekely timeframe liquidity area.
+
+In the very next swing of it you can we shift in market structure where previous swing low has been taken out and we will be expecting downside because algorithm will likely to trade back into weekly range it mets its weekly objective.
+
+# ICT OTE Series
+
+### OTE FIBS CONFIG
+<img src="./assets/ote/ote-fib-settings.png">
+
+### Optimal Trade Entry (No Daily Bias & Time based)
+
+We need to focus on previous day's high & low on intraday timeframe such as `5m` timeframe or `15m` timeframe.
+
+If we are in bullish enviornment and if price is reaching towards previous day's high and it brakeouts it very badly with great move & in terms of bearish envonment and if price is reaching towards previous day's low it can brakedown very badly with great move.
+
+Optimal trading is not about checking out the retracements & rushing for trade, its not an optimal trade entry but an fibonacci trading.
+
+<img src="./assets/ote/ote-ny.png">
+
+What makes trade entry optimal is if thats occuring at specific times of the day, And that time is `EST 8:30AM TO 11:00AM` which is `IST 6:00 TO 8:30PM` and if price is retracing in between `62% to 79%` retracement level marked the fibs on previous day's high (in terms of bullish bias) or previous day's low (in terms of bearish bias) brakeout swing or short term high & short term low around it.
+
+`Note - In terms of OTE setup even if we dont have daily bias we need to checkout in EST 8:30AM TO 11:00AM which is IST 6:00 TO 8:30PM previous day high or previous day's low is been taking out and we need to checkout if its creating and optimal trade entry.`
+
+We can target for `1.5 & 2` as Take profit levels and we need to round that price level with nearest round number of instituaional level & We can keep the stoploss `below the swing low` on which we are targetting fibs below some pips which would fit your risk to reward ratio and it should have breathing space for it.
+
+When price moved towards your trade direction move your stoploss to above our entry point by 2-3 pips, in such ways we are having 2 pieces of profits rather than loss and if price already moved towards your 2 targets then move your stoploss to level which is not equal `high's or low's` but to the swing `low or high` which took out equal levels.
+
+Always keep your some part of your trade without booking profit & look for `3` level which would be double of your swing on which you have marked fibs for OTE & no matter price skyrocket after that but just get out of the trade at maximum of `3` level, If your `3 level more than 100 pips` then take partial on `100 pips`
+
+### Day 2 of OTE Setup
+
+We would be looking for OTE setup on USDJPY setup in this section by following all the rules as we have studied above.
+
+**Daily Timeframe Analysis & View :-**
+
+<img src ="./assets/ote/day2-ote-daily.png">
+
+As you can see in the previous swing we have drawn the fibs on which it retraced in OTE levels which are `62% to 79% retracement levels` and on the 6th of may price has retraced into OTE.
+
+on the day of 7th of may we have broke the previous day high in which means we can expect price is reversing to upside and we can expect taking out previous day high to be taken.
+
+**5m Timeframe Analysis & View :-**
+
+<img src="./assets/ote/day2-ote-5m.png">
+
+According to our daily bias we are looking for taking out previous day high so we have found the opportunity for OTE entry by considerting previous day low to recent high swing.
+
+On that swing in the timeframe of `EST 8:00AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` and price retraced into our OTE range which is `62% TO 79% retracement levels`.
+
+We have planned the entry on price above retracement by keeping stoploss below fib swing low & targetting `1,1.5 & 2` fib extension levels and price has delivered results as expected exactly.
+
+### Day 3 of OTE Setup
+
+In this section we will be going to find the ote pattern & setup on futures contract rather than forex as we have discussed setup is not limited to forex only.
+
+**Daily timeframe analysis :-**
+
+<img src="./assets/ote/day3-ote-daily.png">
+
+As we can see on the daily timeframe price is retraced in OTE and continuing its bullish rally but we are concerned about our daily timeframe direction which seems to be bullish with the help of this analysis.
+
+**5m timeframe Analysis & View :-**
+
+<img src="./assets/ote/day3-ote-15m.png">
+
+As we can see we have drawn previous day high & fridays high on our 5m timeframe & we have marked our OTE timezone which is `EST 8:30 TO 11:00` which is `IST 6:00 to 8:30` we got an retracement on recent swing when price swept `2900.00` big figure.
+
+We took entry on `70.5` retracement level & targeted `0.5, 1 & 2` levels of fibonacci extension for profit booking which is targetting previous day high.
+
+### Day 4 OTE setup
+
+In this section we will be looking for ote setup on `GBPUSD` as mentioned below.
+
+**1h analysis :-**
+
+<img src="./assets/ote/day4-ote-1h.png">
+
+As we can see price has took buyside liquidity and given brakedown to its swing low where market has shifted its structure which we call market structure shift.
+
+After market structure shift it has retraced to its swing low and brakedown level according to braker model so we will be looking for bearish profile.
+
+**5m timeframe Analysis & View :-**
+
+<img src="./assets/ote/day4-ote-5m.png">
+
+As you can see we have marked our previous day low ON 5m chart as we are expecting bearish profile according to 1h chart analysis, In our OTE timezone which is `EST 8:30 TO 11:00` which is `IST 6:00 TO 8:30` we are able to see price given a optimal trade entry near the braker and retraced in OTE retracement levels which are `62% to 79% retracement level`.
+
+We will be taking entry on the retracement by keeping stoploss above the swing high on which we have marked the fib & we will be targeting  `0,0.5, 1 & 2` levels.
+
+<img src="./assets/ote/day4-ote-5m-2.png">
+
+We got one more entry in our ote timeframe as mentioned above we took entry on our OTE retracement levels which are `62% to 79% retracement level` by keeping stop loss above swing low & we will be targetting only `0,0.5 & 1` level because its the below levle of previous day low for which price is targetting.
+
+We cannot expect price to pierce previous day levels so much so we rounded up our profit levle with `1.267000` and we need to get out of the trade without expecting to catch top & bottom of the markets.
+
+### Day 5 OTE setup
+
+In this section we will be looking for our setup on `S & P 500 EMINI futures` contract as our setup is not forex dependant only.
+
+**1h timeframe analysis :-**
+
+<img src="./assets/ote/day5-ote-1h.png">
+
+Our higher timeframe bias is our price was revolving around previous fridays high but shifted its market structure to bearish by breaking its previous swing low & retraced around the braker which itself bearish indication.
+
+We have marked previous day low which will be targetting according to our bearish prespective on hourly direction.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day5-ote-5m.png">
+
+As we have marked preivous day low earlier for targetting accoring to our higher timeframe basis, we will be looking for our ote setup inside `EST 8:30 TO 11:00`  which is `IST 6:00 TO 8:30`.
+
+we found a setup where price retraced into ote retracement range which is `62% to 79% retracement levels` keeping stoploss above the swing high & we will be targetting only `0,0.5 & 1` level as we are looking for price movement below previous day low for seeking liquidity.
+
+### Day 6 OTE setup
+
+In this section we will be looking for ote setup on CRUDEOIL as we know that OTE is not limited to only forex market.
+
+**Daily timeframe analysis :-**
+
+<img src="./assets/ote/day6-ote-1d.png">
+
+As you can see above price made equal highs in past some days and also an inverted shooting start candle which is retailers favioraite for short selling.
+
+But according to our ICT trader pov we as there are equal highs in the range price will be going to grab that liquidity and on the current day price will move upside to takeout preivous day's high according to our bullish bias.
+
+**15m timeframe :-**
+
+<img src="./assets/ote/day6-ote-5m.png">
+
+As we have bullish bias according to daily timeframe levle we will be looking for ote setup inside ote timeblock which is `EST 8:30AM TO 11:00AM` which is `IST 6:00 : 8:30AM`.
+
+We found ote setup inside our time block & we will be takingentry on ote retracement `62% to 79%` by keeping stoploss below swing low & targetting `0,0.5,1 & 2` levels.
+
+### Day 7 ote setup
+
+In this section we will be looking for ote setup on GBPUSD as mentioned below.
+
+**Daily timeframe analysis :-**
+
+<img src="./assets/ote/day7-ote-1d.png">
+
+As you can see the the price level which its trading its took out previous swing lows liquidty & but according to retailers mindset it has reached to support level so they will be looking for buy.
+
+But we as ICT trader we can see there is liquidity area below the previous swing low which has not been taken out yet so price will move downwards for it.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day7-ote-5m.png">
+
+As we have bearish bias in our mind according to daily timeframe level we have marked previous day'w low for targetting it we will look for opportunity in our ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM`.
+
+We found ote setup inside our timeframe so we will be taking entry in ote retracements which are `62% to 79%` by keeping stoploss above swing high & we will be targetting `0,0.5,1 & 2 level` according to where previous day align in our tp levels.
+
+### Day 8 OTE SETUP
+
+In this section we will be looking for ote setup on GBPUSD as mentioned below.
+
+**5m large range analysis :-**
+
+<img src="./assets/ote/day8-ote-5m.png">
+
+As we can see above we have marked our fridays high & sundays trading to get to know where our monday's trading has started.
+
+We can see price had reversed in the monday's trading and we will be looking for bullish bias for targetting hte liquidity above friday's high.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day8-ote-5m-2.png">
+
+As we have bullish bias for taking out friday's high liquidity we will be looking for ote setup in our ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM`.
+
+we found the setup in our ote timezone so we will be taking entry in our ote retracement zone which is `62% to 79%` by keeping stoploss below swing low & keeping our target near around friday's high level. 
+
+We did not expected price to reach out our tp levles all such as `0,0.5,1 & 2` because our setup is not based on fibs but we will be looking for fib levels around previous day's low & fib is just for reference.
+
+### Day 9 OTE SETUP
+
+In this section we will be looking for `EURAUD` as its not limited to selective pairs.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day9-ote-5m.png">
+
+We have marked monday's low on the chart & on tuesday `price came to it piereced it & reversed. does it mean the move had already happend? NO!!! Its called as shallow run means its not grabbed out the liquidity yet so it will come againt for the liquidity residing below that level`.
+
+further ahead we are looking for ote pattern entry in ote timezone `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` in ote retracement levels `62% to 79%`.
+
+we found ote setup in our timezone so we took entry on `70.5%` by keeping stoploss above the swing high & targetting `0,0.5` levels only because those are the levels getting aligned with monday's daily low liquidity.
+
+### Day 10 OTE SETUP
+
+In this section we will be looking for `AUDUSD` pair as mentioned below.
+
+<img src="./assets/ote/day10-ote-5m.png">
+
+According to overview price has already reached to previous day's high in our timezone but still why we are looking for bullish entry is because it was shallow run as we have saw in previous session so price will go beyond that level for grabbing liquidity.
+
+We have marked previous days high in the above chart in hte bullish enviornment so we will be looking for ote pattern in ote timezone `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM`.
+
+we found entry in our timezone and price retraced to `62% to 79% ote retracement levels` so we will be taking entry by keeping stoploss below the swing low & targetting `0,0.5,1,1.5` because thats the nearest alligning range for liquidity area.
+
+
+### Day 11 OTE SETUP
+
+In this section we will be looking for OTE setup on `USDCAD` as mentioned below.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day11-ote-5m.png">
+
+We have marked the previous day high on the chart and we are looking for taking it out for liquidity according to our bullish bias.
+
+We will be looking for ote setup in our ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` and we have found the setup where price is retracing in ote `62% to 79% retracement levels`.
+
+We will be taking entry by keeping stoploss below swing low & targetting `0,0.5,1 & 2` as those levels are getting aligned with previous day's high liquidity area.
+
+
+### Day 12 OTE
+
+In this section we will be looking for OTE Setup in `mexican peso commodity futures`.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day12-ote-5m.png">
+
+As you can see we have marked wednsday's high on the chart & we are looking for taking out the liquidity resting above it.
+
+we will be looking for ote setup in our ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` and we ahve found the setup where price is retraced in ote `62% to 79%` retracement levels.
+
+We will be taking entry by keeping stoploss below swing low & targetting `0,0.5,1` but because 1 is nearest level above previous day high liquidity area.
+
+### Day 13 OTE
+
+In this section we will be looking USDCAD for ote setup for bearish scenario as mentioned below.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day13-ote-5m.png">
+
+On the daily timeframe USDCAD was bullish but it was having ote setup on daily due to which it was retracing, retailers might think market has reversed but market is just giving the retracement.
+
+As we are analyzing 5m chart we will be looking for setp in our ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` and we have found the setup for downside move and price has retracedin in our ote `62% TO 79%` retracement levels.
+
+We will be taking entry by keeping stoploss above the swing high & we will be targetting `0,0.5,1,1.5` levels as those are nearest level for the liquidity resting below previous day low.
+
+### Day 14 OTE SETUP
+
+In this section we will be looking GBPUSD for ote setup for bearish scenario as mentioned below.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day14-ote-5m.png">
+
+We have marked previous day low & we are looking for taking out liquidity below the previous day low.
+
+We will be looking for setup in our ote timezone `EST 8:30AM TO 11:00AM` which is `IST 6:30PM to 8:00PM` and price retraced in our ote levels which are `62% TO 79%` but we need to be selective about setup where you are having clarity and no muddyness in it.
+
+we will be taking entry by keeping stoploss above swing high & we will be targetting for `0,0.5,1` levles as they are nearest to previous day low liquidity area.
+
+### Day 15 OTE SETUP
+
+In this section we will be looking for ote setup on AUDUSD as mentioned below.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day15-ote-5m.png">
+
+We have marked our current day opening at `EST 12:00AM` in the chart & we will be looking for price movment to takeout liquidity resting above preivous day high .
+
+We will be looking for setup in our ote timezone `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` and price retraced in our ote `62% to 79% retracement levels`.
+
+We will be taking entry keeping stoploss below swing low & we will be targetting `0,0.5,1,1.5,2` levels as the nearest levels till the nearest to previous day high liquidity.
+
+**Second Opportunity :-**
+
+<img src="./assets/ote/day15-ote-5m2.png">
+
+We got one more opportunity in our ote timezone as we discussed in the above section.
+
+We took entry in our retracement levels by keeping stoploss below swing low & targetting for `0,0.5,1,1.5` but price went till only `0.5` & reversed from it.
+
+Now you will ask why it didnt worked and all but this kind of scenario happens in the market where even if everything looks perfect market can go against our expectaions.
+
+But we are in still profits because we set our partial profits on `0,0.5` levels and we have shifted our stoploss to brakeeven after hitting our first tp level which is `0` so at the end of the day we are still profitable according to our trading plan & rules.
+
+### Day 16 OTE SETUP
+
+In this section we will be looking on CRUDEOIL & for longer term ote setup.
+
+**Daily timeframe analysis :-**
+
+<img src="./assets/ote/day16-ote-1d.png">
+
+In the above image you can see we have marked the gap high & gap low and also so called resistance level of retail traders.
+
+Whenever any gap happens in the market its acts like an magnet, price will wants to trade in that zone for the liquidity so according to that prespective we have bullish bias for price running into gap zone & liquidy above it
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day16-ote-5m.png">
+
+On the charts we have marked previous day high & we will be looking for bullish ote setup our ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` and we found setup where price retraced in our ote levels which are `62% to 79% retracement levels`.
+
+we took entry by keeping stoploss below swing low & we will be targetting `0,0.5,1,1.5,2` levels as its nearest to previous day liquidity area.
+
+It also went till retrailers daily timeframe resistance level & also it will rise up till the gap area liquidity but the move will be over the period of the time.
+
+### Day 17 OTE SETUP
+
+In this section we will be lookinf for OTE Setup on GBPUSD as mentioned below.
+
+**1d timeframe :-**
+
+<img src="./assets/ote/day17-ote-1d.png">
+
+On the chart we have marked the retail resistance levle where equal highs are there, for taking out that level liquidity price will draw towards that level which is called as draw on liquidity.
+
+We have also marked fridays high because according to our bias for resistance level liquidity price is likely to move higher.
+
+**5m timeframe :-**
+
+<img src="./assets/ote/day17-ote-5m.png">
+
+The red line marked on chart is the fridays high but according to higher timeframne analysis we are expecting price to draw towards resistance liquidy so we will be targetting levels above that friday's high.
+
+We will be looking setup in ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` in which we found the entry where price retraced in ote `62% to 79% retracement levels`.
+
+We will be taking entry by keeping our stoploss below the swing low & we will be targetting `0,0.5,1,1.5,2` levels as we are expecting price move higher than fridays high.
+
+### Day 18 OTE  SETUP
+
+In this section we will be looking for OTE setup on tresury futures bond as ote setup is not limited to forex.
+
+**1d timeframe analysis :-**
+
+<img src="./assets/ote/day18-ote-1d.png">
+
+On the daily timeframe as you can see price given otpimal trade entry to donwside and there are equal lows as well below the previous day so we will be looking for previous day low's liquidity taken out.
+
+There is possiblity that price can go even more lower because of the liquidity resting below equal lows so we can target even lower than previous day low.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day18-ote-5.png">
+
+According to our daily bias we was looking to take out previous day liquidity, and we have marked previous day low & equal lows from daily timeframe on the chart.
+
+We will be looking for entry in our ote timezone which is `EST 8:30AM TO 11:00M` TO `IST 6:00PM TO 8:30PM` and we found the entry where price retraced in `62% TO 79%` retracement levels.
+
+We will be taking entry by keeping stoploss above the swing high & we will be targetting for `0,0.5,1,1.5,2` levels as those are aligning with previous day low liquidity & equal lows liquidity from daily charts.
+
+### Day 19 OTE SETUP
+
+In this section we will be having look on USDJPY for ote setup as mentioned below.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day19-ote-5m.png">
+
+As you can see we have marked previous day high & also other equal highs are getting aligned in that range so we will be expecting for taking out that liquidity according to our bias.
+
+<img src="./assets/ote/day19-ote-5m2.png">
+
+We will be looking for entry in our ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30PM` in which we got the entry where price have retraced in our ote `62% to 79% retracement levels`.
+
+We will be taking entry by keeping stoploss below the swing low & we will be targetting for `0,0.5,1,1.5` as they align in our liquidtiy area of previous day swing high.
+
+### Day 20 OTE SETUP
+
+In this section we will be looking for ote setup on EURUSD as mentioned below.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/ote/day20-ote-5m.png">
+
+As you can see we have marked previous day high which we already took out in new york opening run but we might get disappointed that we have missed the move.
+
+But no it was the only price level & according to daily average move liquidity resides above of those level which price targets so we can still take entry.
+
+We will be looking for setup in ote timezone which is `EST 8:30AM TO 11:00AM` which is `IST 6:00PM TO 8:30AM`, we found entry where price has retraced into  `62% to 79% retracement levels`.
+
+We will be taking entry by keeping stoploss below previous swing low & we will be targetting for `0,0.5,1` as it aligns with previous day swing high.
+
+
+# 2022 Mentorship
+
+In this mentorship we will be going to learn the the setups & frameworks which does not appear daily but every week for sure from which you can make you profits by consistantly trading those setups.
+
+### Buy Stops & Sell Stops
+
+**Buy Stops :-**
+
+<img src="./assets/2022-mentorship/buy-stops.png">
+On tha chart whereever there are swing high's above that buy stops resides which means stop orders of buy positions.
+
+**Sell Stops :-**
+
+<img src="./assets/2022-mentorship/sell-stops.png">
+ON the chart whereever there are swing low's below that sell stops resides which means stop orders of sell positions.
+
+### Elements to trade Setup
+
+<img src="./assets/2022-mentorship/s2-weekly-direction.png">
+
+**Direction of Weekly Range  :-**
+
+On the very first place we will be having look on weekly chart.
+
+According to seasonal tendencies, intrest rates, earning seasons volatility and other technical parameters we will be checking out what will be the expected direction of weekly range, we will not be predicting its close nor if its gonna reach out to liquidy levels in single week itself but we will be purely looking for expected direction of weekly range.
+
+**Daily Range :-**
+
+<img src="./assets/2022-mentorship/s2-daily-range.png">
+
+Majority of trading and our analysis will be going to be on daily timeframe.
+
+We need to check where we are on our current daily candle in terms of weekly big picture, and according our weekly direction currently price should be expected to taking out swing lows and reracing into `imbalance`.
+
+  **Imbalance :-**
+
+  <img src="./assets/2022-mentorship/s2-imbances.png">
+
+  Imbalance is one single candle braking out swing high's or breaking down swing low's and nothing overlapping that candles range in opposite direction as mentioned in the image above.
+
+**Hourly analysis :-**
+
+<img src="./assets/2022-mentorship/s2-hourly-range.png">
+
+As you can see we have marked weekly range from monday's opening `EST 12:00` which is `IST 9:30AM` on monday & we have marked our current day's friday's daily range from its openning & till its closing.
+
+As we have anticipated the lower direction price has dropped drastically till thursday & price went into consolidation on friday as we are pointing towards it in the image above.
+
+You can notice what happened into our consolidation is that price took out sell side liquidity and buy side liquidity after it before moving downside which is called as `inducement` which means price took out sellers who had sell stops near previous low & and took out buyers after that by hitting buy side liquidity which is called as engineering liquidity prior to big price move.
+
+Anytime if we are expecting price to move higher it will first give false move to downside by taking out sell side liquidity and vice versa about when we are expecting move lower it will first it will give flase move to upside for taking out buy side liquidy and then only it moves in the expected directions and thats how the price delivery algorithm works.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s2-15m-view.png">
+
+On our 15m timframe we have marked the buy side & sell side liquidity to keep our focus on the our bias and its clarity.
+
+As we had discussed earlier price first triggerd sell stop orders resting below sell side liquidity of brake out artist retail sellers & also hit their stoploss by taking out buy side liquidity and which triggered buy stop orders resting above buy side liquidity of retail brakeout artist traders and took them out by moving downside according to our higher timeframe premise.
+
+To find something specific at the draw on liquidtiy buy stops we will be jumping on lower timeframe charts.
+
+**2m chart :-**
+
+<img src="./assets/2022-mentorship/s2-2m-view.png">
+
+why a 2m chart because 5m has lot of room to occur imbalances in it but `1m,2m,3m` charts are the best for finding imbalnces for indices, high frequency trading algorithms doesnt work more than 3m timeframes but they are looking for intervals in seconds.
+
+High frequency trading algorithms looking for small little imbalances which means as mentioned below.
+
+When we took out previous old high's on 15m timeframe we need to dropdown to lower timerframe in which price created short term low there and broke it down with single candle which we call `imbalance` as we have saw earlier.
+
+The gap formed due to imbalance within first & second candle called as `Fair value Gap` and when price retraces to that fvg `thats where we need to SELL there.`
+
+It occurs every single time atleast once a week the `FAIR VALUE GAP (FVG)` from where price retraces to our orignal direction after giving false move into fvg after break of structure.
+
+We will be able to find and trade it smoothly after backtesting of weeks and months where price retraces in opposite direction into fair value gap and we need to build the trust for market selling when market going higher & buying when market going lower and that will only going to happen with backetesting.
+
+**Premium & Discount zone :-**
+
+<img src="./assets/2022-mentorship/s2-premium-discount.png">
+
+On the previous swing when we mark the fibs `area lower than 50% level called as discount zone` & `area above 50% level called as premium zone`.
+
+Price delivery algorihm delivers price from premium to discount zone according to higher timeframe direction and no matter how much opposite traders we bring from all world price delivery algorihm going to crush & squueze them because price delivery algorihm moves the price not the buying & selling pressure.
+
+**Stoploss & Targets :-**
+
+<img src="./assets/2022-mentorship/s2-sl-tp.png">
+
+We will be keeping stoploss above swing high which broken by imbalance & we will be targetting nearest liqudity in discout zone.
+
+Also if we can notice there is buyside imbalance residinng in that zone where price has delivered buy side balanced move & sell side move which is an example for efficient price delivery of the algorithm.
+
+**Strategy based on Fair value gap :-**
+
+- Run on liquidity
+- Look for Buy stops to taken out in bullish enviornment
+- Look for sell stops to be taken out in bearish enviornment
+- Break of market structure for short term swing low or high
+- While brake of structure if its creates gap
+- when price retraces in that fair value gap take entry
+- target nearest liquidity in the direction of your trade
+
+**Excercise :-**
+
+<img src="./assets/2022-mentorship/s2-excercise.png">
+
+Go through emini futures intraday charts or forex charts & look for brake of structure where buy stops & sell stops have been taken in opposing direction of your weekly range.
+
+Then we look for brake in market structure on lower timeframe once that occur & imbalance gets created thats our trigger of entry to take entry in that fvg targetting nearest liquidity below old high's or old low's or the imbalance.
+
+
+### Internal Range Liquidity & Market Structure Shifts
+
+<img src="./assets/2022-mentorship/mss.png">
+
+Market Structure shift in terms of downtrend is when price brakes down equal lows in intraday enviornments such as `15m timeframe` in downtrending enviornments its likely to brake equal highs of that range as well in same day.
+
+Market Structure shift in terms of uptrend is when price brakes out equal highs in in intraday enviornments such as `15m timeframe` uptrending enviornments its likely to brake equal lows of that range as well in same day.
+
+**Bearish Market Structure Shift :-**
+
+<img src="./assets/2022-mentorship/mss-2.png">
+
+As you can see above we need to keep note on follwing points.
+
+- Stop raid on buy side liquidity.
+- brakedown of recent swing low prior to stop raid/draw on liquidity.
+- Wait patiently for candle after brakedown to close.
+- Checkout if it created fair value gap with candle prior to brakeout & the candle next to brakeout.
+- It if does take entry in retracement of fair value gap.
+  
+**Bullish Market Structure Shift :-**
+
+<img src="./assets/2022-mentorship/mss-2.png">
+
+As you can see above we need to keep note on follwing points.
+
+- Stop raid on sell side liquidity.
+- brakeout of recent swing low prior to stop raid/draw on liquidity.
+- Wait patiently for candle after brakeout to close.
+- Checkout if it created fair value gap with candle prior to brakeout & the candle next to brakeout.
+- It if does take entry in retracement of fair value gap.
+
+**What is order block exactly?**
+<img src="./assets/2022-mentorship/bearish-ob.png">
+<img src="./assets/2022-mentorship/bullish-ob.png">
+
+Orderblock is change in state of price delivery algorithm which mean as you can see above for bearish orderblock, the opening price of candle from which the price started to go higher & higher as we are pointing towards it in above image, when that opening price is taken down then its called as state changed of price delivery algorithm from bullish to bearish & after that it will be looking for & attacking sell stops  & sell stops  as its offering sell side liquidity.
+
+As you can see for bullish orderblock, then opening price of candle from which the price started to go lower & lower as we are pointing towards in it in above image, when that opening price is taken out then its called as state changed of price delivery algorithm from bearish to bullish & after that it will be looking for & attacking buy stops & buy stops as its offering buy side liquidity.
+
+
+**Applications of Market structure shifts :-**
+We can look for below sessions & their high's and low's because market can sweep above those high's & sweep above those low's so we can look for out market structure shift with fvg setup in it.
+
+1. Looking for London Session high's & low's `EST 2:00AM TO 5:00AM` which is `IST`.
+
+2. Looking for New york session high's & low's `EST 7:00AM TO 10:00AM` which is `IST`.
+
+3. Looking for Asian session high's & low's `EST 7:00PM TO 9:00PM` which is `IST`.
+   
+4. Any intraday high & low before equity openings before `EST 9:30AM` which is `IST`
+
+
+**Internal Range Liquidity :-**
+
+Looking for short term low's & short term high's inside a price inside which we are retracing into leg is called as `Internal Range Liquidity`.
+
+Liquidity is short term high's or low's stops above or below or an imbalance.
+
+**Excercise :-**
+
+<img src="./assets/2022-mentorship/s3-homework.png">
+
+Go through Emini futures intraday charts and look for stop hunts that leads to market structure shifts in the market `on 3m,2m,1m timeframes` between `EST 8:30AM TO 12:00AM` & fvg entry setup with those.
+
+### Exaples for Market structure shifts & internal range liquidity
+
+**E-MINI S&P 500:-**
+
+<img src="./assets/2022-mentorship/s4-equilibrium.png">
+
+As you can see we have marked the `fib 50% level` from extreme low which we marked with blue & extreme high which we also marked with blue.
+
+We have marked 50% equilibrium which is red & another swing low with blue for the liquidity above that we have imbalance as well so that would be our valid exit point.
+
+**Setup :-**
+
+<img src="./assets/2022-mentorship/s4-eimini-setup.png">
+
+As you can see price first took out the buy side liquidity and given market structure shift to recent or intermediate low
+
+When price given bearish market structure shift it formed a fair value gap for which we was looking for & we will be taking entry by `targetting previous swing low liquidity or imbalance or 50% retracement`  by keeping stoploss above the Fair value gap.
+
+
+**E-MINI NASDAQ-100 :-**
+
+<img src="./assets/2022-mentorship/s4-nasdaq-setup.png">
+
+As you can see we have marked the equilibrium of extreme swing high & low, buy side liquidity & also we found an imbalance which can acts as our take profit level.
+
+We can see price first took out buy side liquidity and given market structure shift to recent or intermediate swing low.
+
+When price given bearish market structure shift we will be looking for fair value gap and we found one so we will be taking entry by `targetting previous swing's low liquidity, equilibrium & imbalance as our take profit levels`.
+
+### Intraday order flow & understanding the daily range.
+
+For forex we need to mark out the timezones which are `EST 8:30AM TO 12:00PM` which is `IST 6:00PM TO 9:30PM` & `EST 1:00PM TO 4:00PM` which is `IST 10:30PM TO 1:30AM` and the 1h gap between this timezones will be lunch brake we need to avoid that.
+
+`NO TRADE TIME is  EST 12:00PM TO 1:00PM which is IST 9:30PM TO 10:00PM`.
+
+**Which levels to took for stop hunt according to our setup :-**
+
+<img src="./assets/2022-mentorship/s5-15m.png">
+
+We look for equal lows & equal high's forming prior to `EST 8:30AM` which is `IST 6:00PM` on `15m timeframe` around our trading timeframe in morning session & afternoon session as we have saw above.
+
+After we able mark the buy stops & sell stops for stop hunt zone we switch to lower timeframe chart which is `5m`. If price is having small small moves against the level that could possibly respect the level but if price is moving agressively towards the level there is posiblity of piercing that level.
+
+<img src="./assets/2022-mentorship/s5-5m.png">
+
+After price reaches to the level either it respects or pierces we look for `MSS` with strong `displacement :- strong move into opposite side after reaching certain level` then only it can form fair value gap as we have mentioned in the above image.
+
+**Price move in morning & afternoon :-**
+
+<img src="./assets/2022-mentorship/s5-moves.png">
+
+We consider our new york trading in 2 sessions, the morning session `EST 8:30AM TO 12:00PM & IST 6:00PM TO 9:30PM` & afternoon session as `EST 1:00PM TO 4:00PM & IST 10:30 TO 1:30AM` .
+
+In the above image as you cam see once price took out sell stops according to our `MSS + FVG setup` now price will be taking down buy stops liquidity accoridng to higher timeframe direction.
+
+But notice price didn't pierced the buy side liquidity so retailsers will short considering it as resistance but price is consolidating and making higher high's slowly which is indicating that price is likely to move higher.
+
+You can notice how price has moved drastically in the afternoon session at the timing of new york session closing which is   `EST 3:00PM TO 4:00PM & IST 12:30 TO 1:30AM` and at this timing price likely to make its close of the day so in the timepeior it will either breaks high of previous day in bullish enviornment & low of the previous day in bearish enviornment.
+
+As you can see we price had blown out an swing low in afternoon session and our bias is bullish so we can take entry on that draw on liquidity targetting for next buy side liquditiy. We don't need multiple setups in the market to trade 1-2 setups can fullfill our profitability so `MSS + FVG` & `run on liquidtiy of opposite side of daily range expansion` are the enough entrypoints in a day.
+
+`NOTE :- Dont try to get into little moves with huge contracts or lotsize and that's not our goal but try to catch the big moves in the day selectectively and thats what we are learning for. Once you get the move of day in morning or evening session dont trade on live account and practice on demo account and dont give the money back to market once you earned by trading live account in day.`
+
+### Market Efficiency Paradigm & Institutional Order Flow
+
+**How to we internalize price delivery :-**
+
+<img src="./assets/2022-mentorship/internalize-price-delivery.png">
+
+- Do not trade patterns sake
+- Do not trade indicator readings or momentum
+- We look to enter longs where retail sells
+- We look to enter shorts where retail buys
+- We antcipate price seeking opposing liquidity
+- Time of day is vital when engaging with price
+- Do not trade patterns sake
+
+**Market Structure Shift :-**
+
+Market structure shift is when price cotinuing in some direction from some previous swings keep braking swing points eihter high's or low's and suddenly it moves strongly into opposite direction which causes breakout or brakedown of previous swing level and closes the candle below that swing point.
+
+
+**Bearish Market Structure shifts :-**
+
+<img src="./assets/2022-mentorship/bearish-mss.png">
+
+Bearish Market structure shift is valid when price had previously broken swing high in last swing or it took out buy side liquidity & price displaces strongly to downside due to which intermediate or last swing low get broken. 
+
+Candle should be closed below the broken down swing low & displacement area should be wider. In the displacement high & displacement low High probability bearish FVG forms & Every single day this pattern occurs either in one or other market.
+
+**Bullish Market Structure shifts :-**
+
+Bullish Market structure shift is valid when price had previously broken swing low in last swing or it took out sell side liquidity & price displaces strongly to upside due to which intermediate or last swing high get broken. 
+
+Candle should be closed above the broken out swing high & displacement area should be wider. In the displacement high & displacement low High probability bearish FVG forms & Every single day this pattern occurs either in one or other market.
+
+**THE ICT FAIR VALUE GAP :-**
+
+Fair value gaps are the gap occured while run above or below previous low and the third candles continues the same direction of breakout candle but does not trade towards the first candle's low to which we given brakeout.
+
+Fair value gaps are basically the area where price is not delivered efficiently which means lets consider we are painting the wall with paint roller and when we are rolling from top to bottom what happens? it leaves out spots or unefficiently painted areas so what we do to fix that? we need to roll to its opposite side to fix that. Its the same with Fair value gap, when price is not delievered in some area efficiently it drives towards it to delivers price efficiently.
+
+As we know smart money buys when retailers sell & sells when retailers buy, lets consider if price given brakeout to resistance level retail brakeout artist will enter into market but smart money wants to sell their as its an stop hunt or taking out the liquidity resting about that buy stops, if smart money misses that move its an second opportunity for smart money to enter into the trade in the fair value gap and it works as smooth as expected.
+
+**Bearish Fair value Gap :-**
+
+<img src="./assets/2022-mentorship/bearish-fvg.png">
+
+Bearish fair value gaps are only valid if price took out liquidity resting above the buy stops & then it creates strong bearish displacement which is strong downside move which brakes down previous candles or swing low and if the next candle continues bearishness which creates gap then its an valid fair value gap.
+
+Basically the bearish fvg occured after bearish market structure shift are the valid fair value gaps.
+
+**Bullish Fair value Gap :-**
+
+<img src="./assets/2022-mentorship/bullish-fvg.png">
+
+Bullish fair value gaps only valid if price took out liquidity resting below sell stops & then it creates strong bullish displacement which is strong upside move which brakes out previous candles high and if the next candle continuesx bullishness which creates gap then its an valid fair value gap.
+
+Basically the bullish fvg occured after bullish market structure shift are the valid fair value gaps.
+
+**Setup with fvg & mss :-**
+
+<img src="./assets/2022-mentorship/s6-15m.png">
+
+As you can see we have marked our morning session which is `EST 8:30AM TO 12:00PM & IST 6:00PM TO 9:30PM` & we found that swing high formed before `EST 8:30AM & IST 6:00`
+and we will be referring for it.
+
+As you can see price take out that high & buy side liquidity resting there now we will be looking for our `MSS + FVG` setup for which we will be continuing to look lower timeframes such as `5m, 3m, 1m` every timeframe till `1m`.
+
+**5m timeframe :-**
+
+<img src="./assets/2022-mentorship/s6-5m.png">
+
+As we can see we are not able to see any fair value gap.
+
+**3m timeframe :-**
+
+<img src="./assets/2022-mentorship/s6-3m.png">
+
+As you can see we are able to find fair value gap there on 3m timeframe on which we can take entry by targetting previous swing levels liquidity & keeping stoploss above the last swing high.
+
+**2m timeframe :-**
+
+<img src="./assets/2022-mentorship/s6-2m.png">
+
+As you can see we are able to find fair value gap there on 2m timeframe which is same we saw on 3m timeframe on which we can take entry by targetting previous swing levels liquidity & keeping stoploss above the last swing high.
+
+**1m timeframe :-**
+
+<img src="./assets/2022-mentorship/s6-1m.png">
+
+As you can see we are able to find the first occurance of fair value gap on 1m timeframe the very fine tuned one which is above than 3m timeframe setup but this 1m setup will be the best possible entry out there.
+
+We will be entering on that fair value gap by targetting previous swing levels liquidity & buy keeping stoploss above the last swing high.
+
+**Booking profits using liquidity :-**
+
+As we have discussed previously we have 2 types of liquidity which are internal range & external range liquidity.
+
+<img src="./assets/2022-mentorship/s6-liquidity.png">
+
+As you can see above we have mareked fib on swing high to low in which we got the setup so the liquidity resting inside 0 to 100% retracement its called as internal range liquidity that can be `buy/sell stops, imbalance or fvg etc`.
+
+We need to book our partials inside the liquidity range & we have to close our trade on external liquidity.
+
+### Daily Bias & Consolidation hurdles
+
+<img src="./assets/2022-mentorship/s7-daily-bias.png">
+
+As you can see we are able to see the daily chart for `NASDAQ`in which we price recently took down swing lows liquidity in upper swing, formed fair value gap & targeted sell side liquidity, if we would be in between the move which is occuring we would be looking for sell setups untill & unless price reaches to the sell side liquidity, but you can there was some bullish days as well.
+
+We cant be expect to `being 100% accurate & perfect` in the market or getting to know bias every single day, but you can see the majority of the move was in our bias direction so we are in profit overall even after having 2 bullish days but we had 4 bearish days accoridng to our bias.
+
+Now after the above mentioned move what we are expecting is that price should retrace into preimum zone which is above 50% of the recent swing to upside & we went down to previous low & bounced back from it, At the current stage our direction is not clear enough, even ICT sometimes does not have clear idea about the bias, in that case we need more price action and more information based on whats market going to do right after the morning `EST 9:30AM & IST 7:00PM`, in such cases we look for intraday price action after `EST 8:30AM & IST 6:00PM` for taking out equal high's & low's forming & our setup `MSS + FVG`.
+
+We was expecting price to take liquidity formed equal low's formed on previous swing levels & we will be hunting setups by keeping our bias in our mind. we can take setups counter of our bias such as bullish but we need to be conservative about the leaverage & risk to minimum but when setup occurs in the favors of our bias we go maximum leaverage upto `3.5% of equity` but we as a beginner trader we should be trade maximum to `1%, 0.5%` of our equitiy.
+
+
+**15m (Intraday) analysis :-**
+
+<img src="./assets/2022-mentorship/s7-intraday.png">
+
+As you can see even though we was expecting downmove according to our foggy daily bias we have marked `EST 8:30AM & IST 6:00PM` on the chart & price took out the swing low in our morning session, so we would be switching to smaller timeframes such as `5,3m,2m,1m` timeframe for looking our `FVG` in `between the displacement high & low`.
+
+**2m analysis :-**
+
+<img src="./assets/2022-mentorship/s7-2m.png">
+
+As you can see we have switched to 2m timeframe looking for `FVG` in between the displacement high & low, As you can see we are not able to see the `FVG` but still ICT took entry when price took sell side liquidity mentioned in the above image.
+
+BUT WHY???
+
+<img src="./assets/2022-mentorship/s7-emini-fvg.png">
+
+<img src="./assets/2022-mentorship/s7-smt.png">
+
+Because Fair value gap formed on `S&P 100` which is co-relative pair to `NASDAQ` & there was an `SMT` divergence as well been caught by ICT as mentioned above in the image.
+
+ICT took entry by targetting nearest liqudity & imbalnce till which price can move wihtout any hurdles.
+
+
+**Overcoming consolidation hurdles :-**
+
+<img src="./assets/2022-mentorship/s7-consolidation-hurdles.png">
+
+As you can see there are lot of short term orders on ICT's live account before our actual entry which we saw above & Why is that?
+
+Back in the 90's ict learnt from floor trader who traded s&p on actual floor & larry williams & george & gails, and what is that? when this people would not be having clarity about the price action they would just simply buy or sell with very little quantity to analyze whats market willing to do.
+
+Is market running away from the entry price is either direction or its just keep going higher & lower and it will gives us the clarity about the market direction, and whatever loss or profit we will fact due to it will be premium to the market to get the clarity about the direction. sometimes we get profits as well & also losses from it but it would be for our clarity purpsoe which would be valid & how price delivering to that order.
+
+If price is going in the direction of your bias it seems to be our bias correct but if its not then ther is sign that our bias seems not be strong enough & the direction is not getting respected.
+
+### Applying Institutoinal flow to forex markets
+
+In this section we will be looking on `EURJPY` for our `MSS + FVG` setup to checkout if it works fine in forex pairs & if does it work on daily timeframes.
+
+<img src="./assets/2022-mentorship/s8-daily.png">
+
+As you can see price took out sell side liqudity & given bullish market structure shift but not created any `fvg` in it & again it took out previous swing low & given an  bullish market structrue shift.
+
+Now in this occurance we found our `FVG` inside displacement high & low so we will be taking entry into it by keeping stoploss below swing or displacement low & we will be targetting nearest buy side liquidity or an imbalance.
+
+**Current day 15m & 5m analysis  :-**
+<img src="./assets/2022-mentorship/s8-15m.png">
+<img src="./assets/2022-mentorship/s8-5m.png">
+
+We have marked `EST 7:00AM TO 10:00AM & IST 4:30PM TO 7:30PM` which is new york kill zone for forex market.
+
+As you can see in the above image we took out sell side liquidity residing below the swing low over there but we are not able to see any fair value gap in it, so we will be switching to lower timeframes as `5m,3m,2m,1m` untill we find our fvg entry.
+
+**3m timeframe :-**
+
+<img src="./assets/2022-mentorship/s8-3m.png">
+
+As we can see we are able to find `FVG` between displacement high & low on 3m timeframe on which we will be taking entry by keeping stoploss below displacement low.
+
+But now how we will be setting target for this forex entry, if we move to higher timefrmae we will be able to see something like liquidity resting above buy stops but we can use the fibs as well according to our OTE configuration and we can target `1,1.5,2` levels according to buy stops & liquidity.
+
+**Approach for london session for forex :-**
+
+We can look for  `EST 2:00AM TO 5:00AM & IST 11:30PM TO 2:30PM` for london setup in which we can look for `MSS + FVG` setup for london trading paris such as `EURUSD, GBPUSD etc`
+
+
+### Power of 3 &  New york PM Session Opportunities
+
+In this section we will be understanding power of 3 and new york session opportunities.
+
+<img src="./assets/2022-mentorship/s9-Daily.png">
+
+In the above image we can see price took out previous swing low liquidity resting below buy stops & currenty price traded in discount zone & price took down recent swing low & buy stops resting below that and created fair value gap & on the current day we are retraing into that fair value gap.
+
+**Power of 3 on intradya 15m timeframe :-**
+
+<img src="./assets/2022-mentorship/s9-15m.png">
+<img src="./assets/2022-mentorship/s9-m.png">
+
+
+Power of 3 means `Accumulation, Manipulation & Distributoin` as we have already learned in previous series.
+
+In our current section you can see we have marked `EST 8:30AM & IST 6:00PM` session opening and before that there are buy stops residing above the equal low's & After morning session opening price took out that buy side liquidity & created an  fair value gap.
+
+We consider our session opening time price as opening price of the day in the phase of `AMD (Accumulation Manipulation & Distribution)` and price consolidated which we will be considering `Accumulation` & you can notice when price retraced into that fair value gap it took down the opening price as it was `Manipulation` phase of the day and when price given its orignal move for taking previous day high liquidity & for retrcacing in `daily timeframe fair value gap`.
+
+
+**1m timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s9-1m.png">
+
+As you can see on 1m timeframe we have took out swing high & created a fair value gap in our afternoon trading session. 
+
+When price will be retracing into that fair value gap price is also retracing in order-block, inside the retracement which gives us high probability buyside entry and we can target for our recent swing high's & buy stops residing above it.
+
+
+**What if bigger move happens overnight ?**
+
+<img src="./assets/2022-mentorship/s9-overnight-5m.png">
+
+If price moves a larger or bigger range overnight withint `EST 2:00AM TO 5:00AM & IST 11:30AM TO 2:30AM` then we should not expect larger range move in new york session.
+
+Whenever price moves in larger range and it creates low as we can see above around our morning opening session which is `EST 8:30AM & IST 6:00PM` and most of the retail traders stop loss will be resting below that because they want to preserve their profits.
+
+As we can see as soon as price took out that swing low & stops redsiding below that it rallyed to the level of daily timeframe fair value gap.
+
+<img src="./assets/2022-mentorship/s9-overnight-1m .png">
+
+If we switch to lower timeframe for looking for FVG + MSS setup we dont have it when price took down previous swing lows but we got the clarity that price will be rallying upside & we found one setup in the after noon session where we was having bullish bias we will be taking entry by keeping stoploss below the swing level & we will be targetting nearest liquidity.
+
+### Implementing Economic Calender Events with open
+
+
+
+<img src="./assets/2022-mentorship/s10-economic-cal.png">
+
+**Link :-** `https://www.forexfactory.com/`
+
+Economic calender is the calender for economic news events which can bring huge volatile movements which can destroy your trades unexpectedly, so we need to be aware about the news which can impact our market, our trades & will it be in positive way or negative way.
+
+Yellow stands for low impact, orange stands for medium & red stands for high impact news in the chart.
+
+The reason we choose our morning session starting at morning `EST 8:30 & IST 6:00` is due to number of news get released at that timing & its starting of news release.
+
+**Power of 3 :-**
+<img src="./assets/2022-mentorship/s10-1d.png">
+<img src="./assets/2022-mentorship/s10-1d-ohlc.png">
+
+As you can see in the candlesticks chart we can see price took out previous long term swing lows & retraced into recent swing discounted zone, and in teh recent times price took out previous swing lows & created `MSS + FVG` setup and we will be looking for price to move downside taking out the sell stops resting below the previous swing low's.
+
+Now Power of 3 means `ACCUMULATION, MANIPULATION & DISTRIBUTION` as we have see above in other mentorship sessions but in this session we get to learn that all the setups in the direction of our daily bias happens in the opening range.
+
+So what does the opening range means, opening range is the range from where price creates false move & high /low of the day we draw the same area of range to its opposite side as well, the range from opening price to the manipulation move is called as opening range & all the possible patterns or entries happens in the opening range according to your daily bias.
+
+Once we have bias on the daily timeframe we stick to that bias untill & unless we reach out to liquidity area where price is heading and we take same direction trades, some trades will be wrong but most of teh days will in the pattern of power of 3 where after accumulation price will create false move as opening range & will expand to bias side & creates the high/low of the day according to bias and we will going to trade bias direction in it.
+
+**1h anaysis :-**
+
+<img src="./assets/2022-mentorship/s10-1h.png">
+
+Above we have zoomed into the area from daily timeframe where the `MSS + FVG` formed & red lines are the `fvg high & fvg low` & Green areas marked on the charts are the fvg's from the session 9 where we was expecting bullish move to retrace into that daily timeframe fvg.
+
+Price retraced to that fvg & created our `MSS + FVG` setup after rembalancing price to that fvg & that entry is formed in london sessoin, if we have clarity about the daily bias we get innormus amount of entries in london session & our `FVG + MSS setup works in all sessions london, asian & new york` but as there is not greater move in asian session we can focus on london & new york session.
+
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s10-15m.png">
+<img src="./assets/2022-mentorship/s10-15m-po3.png">
+<img src ="./assets/2022-mentorship/s10-15m-3.png">
+
+As you can see in the fist image we are able to see how price is retracing in our fvg from 1h as we have saw above.
+
+In the second image you can see we have marked our new york midnight open which is `EST 12:00AM & IST 9:30AM` in the london session price took created day high & retraced into fvg from daily timeframe and there are 2-3 things alighning, first is price retracing in fvg, second is its creating day high in london & thats how we find high probability trades where multiple confluences are getting aligned with each other.
+
+As we have discussed about the opening range we are able to see the multiple entries on 15m timeframe in the opening range which is the daily high/low area drawn on both side.
+
+<img src="./assets/2022-mentorship/s10-4m.png">
+
+As you can see according to our analysis above we will be looking down to smaller timeframes for looking for `MSS + FVG` setup and we have found that on 4m timeframe.
+
+Once we find the setup on any lower timeframe, we dont go more down or analysis more timeframes, we optimally look for setup on that same timeframe and we will be planning entry for it.
+
+as we can see price has retraced into that fvg after MSS due to which we will be taking entry in that fvg & we will be targetting nearest liquidity resting below sell stops by keeping stoploss above the recent swing high.
+
+
+
+
+
+
+
 
 
 
