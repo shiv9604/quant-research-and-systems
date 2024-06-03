@@ -2731,6 +2731,154 @@ Once we find the setup on any lower timeframe, we dont go more down or analysis 
 
 as we can see price has retraced into that fvg after MSS due to which we will be taking entry in that fvg & we will be targetting nearest liquidity resting below sell stops by keeping stoploss above the recent swing high.
 
+### Missing setups & Coping with it
+
+<img src="./assets/2022-mentorship/s11-1d.png">
+
+As you can see in the above chart price took out the liquidity below sell stops of previous swing low & reversed into bullish direction, But failed to take out liquidity resting above buy stops of recent swing high.
+
+But it broken down previous swing high creating `MSS + FVG` setup & imbalance range dut to which we will be expecting price taking down liquidity resting below previous swing low & sell stops on daily timeframe.
+
+`Note :- If you are looking for whole daily range you consider EST 12:00 & IST 9:30AM as opening price but if you are looking for morning session then you prefer EST 8:30 & IST 6:00PM as the opening price.`
+
+**Lower Timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s11-1h.png">
+
+<img src="./assets/2022-mentorship/s11-15m.png">
+
+<img src="./assets/2022-mentorship/s11-5m.png">
+
+According to daily timeframe bias we price is heading downside as its retraced into daily bearish `MSS + FVG` setup.
+
+As you can see on the 5m chart mentioned above we are able to see our bearish `MSS + FVG` setup for wich we have marked the imbalance or fvg & we will be looking into that setup on lower timeframes.
+
+**4m timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s11-4m.png">
+
+we are focusing on the fvg area which we able to caught on 5m timeframe for fine tuning.
+
+As you can see after giving bearish market structure shift to previous swing price retracing in that fair value gap formed while market structure shift & we will be taking entry when price will retracing into the fvg.
+
+**3m timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s11-3m.png">
+
+The candle we are pointing on this chart thats where we took the entry to our short entry.
+
+Why that specific candle? Because firstly we had bearish bias form the higher timeframe & on the 5m timeframe price created bearish `MSS + FVG` setup but we was waiting for the entry. on the candle `10:33` you can notice price was the in the fair value gap displacement high &  nearest to its recent swing high which would be best case scenario to entry because as price is in bearish movment its not likely to brake out that high.
+
+Once we enter into the trade & price strongly displaced to downside and caused market structure shift to downside which was a good sign that price wants to get away from that level & we just need to sit & relax until our trade hits tp.
+
+We have took entry on that 10:33 candle by targetting the liduitity area which we have marked wiht green line on the chart by keeping stoploss on fvg entry swing high & if our `MSS + FVG` repeats we can add the position into the trade.
+
+### Market Structure for precision technician
+
+In this section we will be focusing on market structure from higher timeframe to lower timeframe step by step braking it down.
+
+<img src="./assets/2022-mentorship/s12-1d.png">
+
+`How do it know price will not brakeout previous high & i should get short on highest high?`
+
+Very first thing we need to understand is that whenever we are approaching to charts our view should be what is the price doing exactly, will likely to go high for taking out liquidity resting above buy/sell stops or price heading for balancing the bearish or bearish `FVG/Imbalance` simple as that, We get an raw bias based on that.
+
+Let's switch to hourly timeframe for deep dive into market structure.
+
+**1h timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s12-1h.png">
+
+You can see the red lines marked on the chart are the high & low of daily range fair value gap on which we are having bearish bias.
+
+Now here we have marked `Long term high/low (LTH, LTL)`, `Intermediate term high/low (ITH,ITL)` & `Short term high/low (STH,STL)` and what we will be be noticing Long term high & Intermediate term high should not be taken out as we are having bearish bias in the mind.
+
+You can notice when price touched fair value gap high & then came down to fair value gap low notice in second swing price created intermediate term hihg by not braking long term high & broken short term low and created intermediate term low with strong bearish movement which caused another fair value gap on 1h timeframe.
+
+Now we will be focuing on price while retracing into fair value gap after giving bearish market structure shift as an orderblock & as soon as it failes to brake intermediate term high & brakes down short term low over there with strong rejection that draws our intrest in there.
+
+why because price retraced into fair value gap expecting bearish move & it also failed to brake intermediate term high which is another confirmation of its willingness to go downside & its bearish ness.
+
+Lets have look in our focused area on lower timeframe.
+
+`Note :- Our only conslusion form this market structure is that the swing point created while price rebalancing in imbalance or retracing in fair value gap it shold not be taken out at any cost even after your entry until the exit, if it does then its an wrong trade and you need to accept the loss if it hit your SL.`
+
+`Note :- And another objetive we wanted to deliver in this was when the move is upside the downclose or bearish candles which appears in between will acts as support & should not be taken down & when the move is bearish upside close or bullish candles acts as resistance & should not be taken out.`
+
+**15m timeframe :-**
+
+<img src="./assets/2022-mentorship/s12-15m.png">
+<img src="./assets/2022-mentorship/s12-15m-entries.png">
+
+As you can see the orange marked area in our 15m chart is the bearish orderblock move of 1h, and look closely what does reside in? `The Fair Value Gap`. when the fair value gap occurs inside the order block its in high probability indication and the entry with multiple confluences.
+
+We can take entry over there by keeping our daily bias in mind for bearish ness due to bearish `MSS + FVG` setup, we will be targetting liquidity from daily timeframe itself.
+
+<img src="./assets/2022-mentorship/s12-15m-fibs.png">
+
+How we get to know what levels should we target for is based on the fibs, we can draw the fibs from the `LTL to ITH` from which actual down move started and we will get the levels such as `0,0.5,1,1.5,2,2.5 & 3 according to ICT fib setting as mentioned above` but we need to checkout which fib level getting aligning with sell side liquidity from daily chart? that is `1.5` so we will be targettig `1.5` level after this entry as an exit of trade & dont forget to book the partial profits on `0,0.5,1` as it increases the probability of the trade to become profitable.
+
+**5m timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s12-5m.png">
+
+We have saw 2 entries on the 15m timeframe which was aggresive & low risk high probability trade in it.
+
+We have dropped down on 5m timeframe analysis in which you can see our aggresive entry previously didnt broken any swing low while creating fair value gap on 15m timeframe but you can see it does on 5m timeframe which is another confirmation for that entry.
+
+Also we can see micro view for low risk high probability entry as well in which we are able to see clearly how bearish market structure shift occured on 5m timeframe for that setup & how cleanly price respected that fair value gap & moved drastically downside according to our daily bias.
+
+### Market Structure for precision technician Execution
+
+According to our learning in previous section we will be seeing those things in the action in this session.
+
+<img src="./assets/2022-mentorship/s13-1d.png">
+
+As you can see after the move we saw in previous section price had already took out the liquidity resting below the previous swing lows but it also caused the market structure shift & created the fair value gap.
+
+So at the current stage there can be possibility that price will attract towards that fair value gap or imbalance to balance the price & can continue its bearish rally.
+
+**1h timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s13-1h.png">
+
+By keeping our daily bias in mind we are able to see recently price given market structure shift to its previous swing high but not created fair value gap.
+
+But we are able to see price retracing in the downclose candle prior to the move which is an order block and also acting as an support for us according to theory in the previous section.
+
+When price is retracing in that orderblock of 1h timefrmae what time its retracing matters also price will be retracing in the imbalance or fair value at that point on the lower timeframe.
+
+Lets switch out to the lower timeframe for seeing into that area in more details.
+
+**15m timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s13-15m.png">
+
+As we have predicted there is an imbalance inside the order block which makes it high probability setup by keeping bullish bias in the mind from daily timefrme.
+
+Now you can see our 1h timefrmae orderblock is became of 2 candles on 15m timeframe along with some other candles so its never an single candle prior to move its an series of candle before the move.
+
+Price has retraced into that order block once around `EST 6:30AM & IST 4:00PM` but as we said it what time of the day its occuring also matters.
+
+According to our plan & morning session timings after `EST 8:30AM & IST 6:00PM` we got another retracement into that order block & fair value gap inside it and thats where we look for the entry.
+
+Lets fine tune it by looking it on lower timeframes.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s13-5m.png">
+
+We have focused in the area where price retraced into order block & fair value gap of higher timeframe where we found entry from 15m timeframe `MSS + FVG` setup.
+
+Now you can see there is another order block formed on 5m timefrmae & also it created an fair value gap in which we will be taking entry by keeping stop loss below that swing low & we will be targetting the liquidity resting above the level we have marked with red line on the chart.
+
+`Note :- As we have learned in the bullish move downclose or bearish candle should support the price as orderblock so whenever price retraced into order block & MSS + FVG setup after our entry till we havent reached our liquidity level we can add more position in our trade.`
+
+
+
+
+
+
 
 
 
