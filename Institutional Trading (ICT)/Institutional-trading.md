@@ -2874,6 +2874,54 @@ Now you can see there is another order block formed on 5m timefrmae & also it cr
 
 `Note :- As we have learned in the bullish move downclose or bearish candle should support the price as orderblock so whenever price retraced into order block & MSS + FVG setup after our entry till we havent reached our liquidity level we can add more position in our trade.`
 
+### Multiple Setups in trading sessions
+
+In this session we will be discussing & focusing about multiple setups in morning session `EST 8:30AM TO 12:00PM & IST 6:00PM TO 9:30PM` & afternoon session `EST 1:00PM TO 4:00PM & IST 10:30 TO 1:30AM`.
+
+**1d analysis :-**
+
+<img src="./assets/2022-mentorship/s16-1d.png">
+
+As you can see on the daily timeframe price has tookout buyside liquidity & retracing in bearish orderblock.
+
+Let's switch to lower timeframe for more details.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s16-1h.png">
+
+On the 1h timefrmae we are having look on power of 3 in which we are expecting downside move for the price according to our daily timeframe as price as retracing in orderblock from daily timeframe.
+
+There are multiple reasons getting aligned with each other for price going to the dpwnside which are liquidity resting below equal lows form previous swing levels & also there is daily timeframe order block over there.
+
+`How much down we can go beyond that order block level? for that lets switch to lower timeframe.`
+
+**15m timeframe :-**
+
+<img src="./assets/2022-mentorship/s16-15m.png">
+
+<img src="./assets/2022-mentorship/s16-15m-2.png">
+
+For finding how lower our price can go we can use fibonacci range with the mentioned above settings which are `0,0.5,1,1.5,2 etc`.
+
+But how to know which level to target is that we need to checkout which level is getting aligned nearby with our liquidity area or sell stops, as ou can see above in the image that our 1 level is getting aligned near to liquidity & how beautifull price has reached that level.
+
+`Note :- We use the fibonacci levels on bodies & not on the high's & lows and thats why other people fail while using fibonacci levels on highest & lowest body in your trading range or area.`
+
+<img src="./assets/2022-mentorship/s16-15m-3.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
