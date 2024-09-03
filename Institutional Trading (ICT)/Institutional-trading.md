@@ -359,9 +359,6 @@ There are 4 types of kill zones introduced by ICT which are as followed.
   Its main charecteristics is to retracement of daily high's or low's & its major area for the change in direction of weekly & daily trend.
 
 
-
-- **London Close Kill Zone :-**
-
 ### USD Index Corelation with Commodity, Stocks & Currencies
 
 USD Index indirectly indicates the direction of Forex Market such as comodity, stocks & currencies direction if analyzed on higher time frame like 1d & 4h.
@@ -2678,8 +2675,6 @@ If we switch to lower timeframe for looking for FVG + MSS setup we dont have it 
 
 ### Implementing Economic Calender Events with open
 
-
-
 <img src="./assets/2022-mentorship/s10-economic-cal.png">
 
 **Link :-** `https://www.forexfactory.com/`
@@ -2911,11 +2906,1613 @@ But how to know which level to target is that we need to checkout which level is
 <img src="./assets/2022-mentorship/s16-15m-3.png">
 
 
+You can notice above setup gives us multiple confirmations as mentioned below as our checklist items.
+
+**Checklist :-**
+
+- Does it given break of structure ? `Yes`
+- Does it have imbalance? `Yes`
+- Does it previous had opposite direction break of structure ? `Yes`
+- Does it retraced into fair value gap at EST `9:30AM & IST 7:00PM` opening? `Yes`
+- Does it run towards the liquidtiy & our order block from daily timeframe? `YES`
+- Does our entry happens above the opening price according to our bearish POWER OF 3. `Yes`
+
+**5m timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s16-5m.png">
+
+As you can see setup is not clean as it was on `15m` timefrmae, but it doenst need to be, we take reference of higher timeframe for the clarity because there is lot of noise on lower timeframes.
+
+If we find fair value gap on `15m timefrmae` we need to keep higher timeframe levels & fvg's into consideration while switching down to lower timefrmae just to see its price on it.
+
+**1m timeframe :-**
+
+<img src="./assets/2022-mentorship/s16-1m.png">
+
+As you can see we have marked our liquidity area as well as `15m fvg` on the chart but in this section we will be focusing on the point where we are looking for another opportunities by keeping same higher timeframe analysis in the mind but mutiple other setups if we have missed the optimal one.
+
+**Multiple setups :-**
+
+<img src="./assets/2022-mentorship/s16-1m-2.png">
+
+<img src="./assets/2022-mentorship/s16-1m-3.png">
+
+<img src="./assets/2022-mentorship/s16-1m-4.png">
+
+As you can see its easy to find setups `When you know what you are looking for according to bias` then even though if you miss entry it's gonna be there in terms of another opportunity.
+
+Sometime market gives us multiple entries & sometimes its not but we dont need to get upset on it because we should be happy that our analysis is going right.
+
+### FRIDAY PM SESSION LIQUIDITY POOL
+
+<img src="./assets/2022-mentorship/s16-liquidity-pool.png">
+
+Every friday when price has delivered its desired move to discounted zone price retraces to premium zone which means on fridays if we are expecting bearish move it expands till the liquidity range & it retraces before its closing.
+
+`After delivering price sucessfully till what level does it retrace?`
+
+It retraces to `AM` session stronges high which pushed the price downside to the desired liqudidity level drastically, we draw the area around that and thats where price likely to retrace as you can see in the image above.
+
+In terms of smart money view you can notice smart money exits their short position wich they was holding at the very lowest point of the friday by engineering sell side liquidity for opposite direction before retracing into `PM Session liquidity pool` & they enter into buy side position targetting that `PM session liquidity pool` so they can take benifit of that move.
+
+**Entry for fridays retracement move :-**
+
+<img src="./assets/2022-mentorship/s16-liquidity-pool-entry.png">
+<img src="./assets/2022-mentorship/s16-liquidity-pool-entry-2.png">
+
+As you can see we have setup formed for `MSS + FVG` for the entry & also mitigation block reside over there so with double confirmaiton for buy side we can take entry for targetting that liquidity pool which we discussed earlier.
+
+### 2022 Model for FOREX
+
+In this section we will be looking for 2022 model for applying in the forex market and we are currently having look on EURUSD for looking for `MSS + FVG` setup.
+
+<img src="./assets/2022-mentorship/s17-1d-2.png">
+
+<img src="./assets/2022-mentorship/s17-1d.png">
+
+As you can see price have took out buy side liquidity on daily timeframe & now it will be moving to downside for the liquidity resting below the equal lows.
+
+As you can see the current day candle have took out previous day liquidity but it stilll having unfinished business to take out the liqudity resting below the next equal low'a liqudity.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s17-1h.png">
+
+How we get to know till what level price can go down for targetting, for that we use fibonacci levels with the preivously saw settings for figuring out levels for `0,0.5,1,1.5,2,2.5,3 etc`.
+
+<img src="./assets/2022-mentorship/s17-1h-2.png">
+
+As you can see on the current day of trading we will be keeping eye on opening price the fvg formed where price can lead for manipulation stage of bearish day.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s17-15m.png">
+
+As you can see we have marked opening price from `EST 12:00AM & IST 9:30AM` above which there is `1h fvg` where price is retracing but on that same level price traded multiple times. Its not buying & selling pressure but price is delivering multiple opportunities above the opening price.
+
+But not only retracement in `1h fvg` matters but at what time of day its retracing also matters so you can notice we have marked a `15m timeframe fvg` in which price is retraced in `NEW YORK OPEN KILL ZONE EST 7:00AM TO 10:00AM & IST 4:30PM TO 7:30PM` and thats our point of intrest should be before the entry, our setup should full fill the critiria of time as well along with technicals.
+
+Let's switch down to lower timeframes.
+
+`Note :- Do not use EST 8:30AM TO 11:00AM & IST 6:00PM TO 9:30PM for forex, its the morning session time for futures but for forex use the NEW YORK OPEN KILL ZONE EST 7:00AM TO 10:00AM & IST 4:30PM TO 7:30PM & other kill zones accoriding to pair & setup.`
+
+
+**5m timeframe :-**
+
+<img src="./assets/2022-mentorship/s17-5m.png">
+
+As you can see we have marked the fvg which formed in the new york open kill zone which is `EST 7:00AM TO 10:00AM & IST 4:30PM TO 7:30M` in previous section and we will focuing in that section.
+
+In the current chart you can see we have marked the new york open kill zone timings & also order block level referring to body of order block candle & there is a news as well coming down at `EST 10:00AM`.
+
+We dont care about the news but you can see price in the previous swing took out sell side liquidity from previous swing low & again traded to same level which was the false move before the news release to take out the sellers who was trailing their stoploss to recent swing low's and `thats why we need to keep the stoploss above the swing high rather than fair value gap`
+
+Let's zoom into shaded area where we will be learning how the `MSS + FVG` setup is applicable here by switching to lower timeframe.
+
+**4m timeframe :-**
+
+<img src="./assets/2022-mentorship/s17-4m.png">
+
+You can see we have marked `EST 8:30AM & IST 6:00PM` opening price on the chart & there is an Fair value gap formed after market structure shift that's where we will be taking entry into our trade by keeping stoploss above its swing high & we will be targetting the fib level near to `1.90000` big figure as we have discussed in the previous sections.
+
+`Note :- As you know we have discussed earlier that we need to refer to the opening price of the new york with EST 12:00AM & IST 9:30AM but we need to keep in mind the opening price as EST 8:30AM & IST 6:00PM and we need to refer the lower one because we want to use the minimum threshold for our entry.`
+
+### How ICT would have traded with funded accounts with 2022 model
+
+In this session how ict would have to start from his initial day's how he would have approached to trading to be an profitable trader with this 2022 model.
+
+**ICT SETUP :-**
+
+<img src="./assets/2022-mentorship/ict-setup.png">
+
+ICT have 3 timeframes setup with trading view which are daily, 1h & 15m timeframes.
+
+So whatever we mark on daily timeframe it is visible to other timeframes as well so due to which we can be in the flow of daily bias & analysis.
+
+`Note :- Can we look for the entry and analysis on phone? No, we should not look for analysis as there is very less amount of data you are looking at so you can manage your trades on phone but you should not do your analysis on your phone.`
+
+**1st Step daily bias :-**
+
+<img src="./assets/2022-mentorship/s18-1d.png">
+<img src="./assets/2022-mentorship/s18-1d-2.png">
+
+As you can see this is the same chart for the next day which about which we have identified the bias for price took out buy side liqudity & now targetting the sell side liqudity resting below equal lows and currently price is moving to target the liquidity resting below the swing low.
+
+This is all about our daily bias. But do we need to target that liqudity & can it be moved in single day? It can but it can take serval days to reach over there as well.
+
+So in the intraday timeframe we would be targetting previous day low in terms of bearish bias & high in terms of bullish days & we have marked previous day high & low on the chart by considering we are trading in next day of it.
+
+**2nd Step 1h analysis :-**
+
+<img src="./assets/2022-mentorship/s18-1h.png">
+
+On the hourly chart we are able to see that daily timeframe fair value gap is also exists on hourly chart which is connfimation of its being high probability.
+
+On the hourly chart we fine tuned our levels, marked the annotations such as liquidty & we look out if the hourly chart is in the same direction of daily chart in terms of price action and bias we mark any important levels or fair value gaps on hourly if exists any.
+
+**3rd step 15m analysis :-**
+
+<img src="./assets/2022-mentorship/s18-15m.png">
+
+After switching to 15m timefrme we first mark the new york midnight `EST 12:00AM & IST 9:30AM` opening price & we draw a horizontal line till `EST 10:00AM & IST 7:30PM` as its ending time of new york kill zone which is `EST 7:00AM TO 10:00AM & IST 4:30PM TO 7:30PM`.
+
+Now we wait untill the relative equal high's to be taken out & we look for `Market Structure Shift (MSS)` & `Fair Value Gap formed due to it` in our new york kill zone.
+
+In this timefrmae as we are having bearish bias from daily timefrmae we would be expecting market to moving higher first above to new york midnight open price before going lower according to `POWER OF THREE (PO3)`.
+
+<img src="./assets/2022-mentorship/s18-15m-2.png">
+
+When the fair value gap forms in new york open kill zone above the opening price in our bearish bias after market structure shift we would be taking entry on the lowest point of the fair value gap.
+
+We can keep our stoploss above the swing high if range is small & we can keep stoploss above the displacement candle high if range is bigger.
+
+We will be targetting for the liqudity resting below the previous day low which we have marked on the daily timeframe.
+
+**Fine Tuning the setup :-**
+
+For fine tuning the entries & for more confirmations we switch to lower timeframe such as `5,4,3,2,1`.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s18-5m.png">
+<img src="./assets/2022-mentorship/s18-5m-2.png">
+
+When we switch to 5m timeframe we look out the 15m fair value area, for searching does it have fair value gap on 5m timeframe & if it have multiple one's we target the lowest one because it would be easiest possible entry.
+
+As you can see in the image above there are multiple fair value gaps around that level but we have marked the lowest one out of them.
+
+Additional confirmation in the setup is that there is orderblock which is opposite direction sudden move before actual move according to which there are 3 consecutive candles there before price started moving downside and thats the orderlblock
+
+`Note :- If your orderblock does not include imbalance or fair value gap in it its not an valid orderblock, orderblock is only valid if it does contain imbalance on lower timeframe.`
+
+When price has entered into that orderblock & also our fine tuned fair value gap on 5m timeframe thats how your high probability trade looks like & we will be taking entry into it by keeping stoploss above the swing high & targetting previous day low liquidity.
+
+`Note :- You need to make sure that your limit order should be placed into our new york kill zone, even though if price does not retrace into it in kill zone but your limit order should be placed inside the kill zone if not you need to look for better opportunitity because purpose of kill zone is the same that you can place the order & you can walk away rather than sitting in front of chart.`  
+
+
+### Session 19 ICT LIVE COMMENTARY
+
+<img src="./assets/2022-mentorship/s19-1d.png">
+
+On the daily timeframe we we will be looking for bullish prices & as you can see we have hit our 2 targets which was `100,101` as marked on the chart.
+
+**USDX 1h analysis :-**
+
+<img src="./assets/2022-mentorship/s19-1h.png">
+
+As you can see how beautifully price given market structure & retraced into fair value gap but see it does not closed the price above that, it very well respected that fair value gap even on hourly timeframe.
+
+We as ICT trader need to get aligned the move with algorithmic price delivery in which algorithm will deliver the price either ways.
+
+And also if we focus on the recent price swing & if we mark the fib on that price is deliverying from premium to discounted zone.
+
+So according to forex fundamentals if dollar is bullish we will be going to be bearish on `EURUSD, GBPUSD` like pairs.
+
+**USDX 15m analysis :-**
+
+<img src="./assets/2022-mentorship/s19-15m.png">
+
+As you can see we are able to see hourly orderblock on 15m timeframe but you can notice if we look from the 15m timeframe prespective we have orderblock resting there/
+
+So when price is retracing in hourly fair value gap its also retracing into orderblock which is another level of confirmation for the entry, you can consider orderblock as bookmark lets say while reading you need to go somewhere so when you come back price is gonna refer to that bookmark which means it going to go back into that order block.
+
+The setup occured in the opposite direction of the daily order flow and we are not advised to take such trade who is not promoting the higher timeframe bias & order flow.
+
+**EURUSD 1D :-**
+
+<img src="./assets/2022-mentorship/s19-eurusd-1d.png">
+
+As you can see on the daily timeframe EURUSD has took out sell side liquidity and there is possibility that now price can go in the premium zone for retracing into the fair value gap which was created when recent price swing got broken while moving to downside.
+
+So as it took out the liquidity already now it can move upside to retrace into that fair value gap to rebalance the price as well to deliver the price form discount zone to premium zone.
+
+**EURUSD 1H :-**
+
+<img src="./assets/2022-mentorship/s19-eurusd-1h.png">
+
+You can see on the hourly chart price came down do the level we have marked on the daily low & price given MSS to the upside & also created FVG in which we can take the entry by targetting premium zone above `0.5%`.
+
+This trade which we are discussing is opposite to the direction of higher timeframe but you need to backtest your model & you need expertise to figure out till what level price can go even in the opposite direction and how you can trade for it.
+
+But for beginners its not advised to trade against the bias of daily timeframe.
+
+**EURUSD 15M :-**
+
+<img src="./assets/2022-mentorship/S19-eurusd-15m.png">
+
+We are reffering to the same trade which we just saw in previous section for 1h timeframe, there was other setups as well around it but why we have choosed that setup is the strong displacement.
+
+You can checkout how strongly price displaced after market structure shift and beginner might think that it can go down to target the liquidity resting below the equal lows to downside below the low.
+
+BUT
+
+Being an ICT trader we have narrative that price already took out sell side liquiditiy even from the daily timeframe so it will be seeking for buy side liquidity now and thats why we get confirmation for our bullish entry as we are showing on the chart.
+
+`Note :- We need a higher timeframe bias & narrative where the price is hading exactly and why and then only we should coulple MSS + FVG entry with it, without the narrative & the bias if taken trades on setup thats the reason most people fails.`
+
+**GBPUSD 1D :-**
+
+<img src="./assets/2022-mentorship/s19-gbpusd-1d.png">
+
+We are having look on `GBPUSD` daily timeframe for identifying the bias and as you can see `FVG` is formed after `MSS` & we was expecting for price to take the sell stops resting below the previous swing low & price delivered to that level very well.
+
+Untill & unless price is below that `DAILY FVG` we will be keeping our bias bearish on GBPUSD.
+
+**GBPUSD 1H :-**
+
+<img src="./assets/2022-mentorship/s19-gbpusd-1h.png">
+
+We are referring to hourly timeframe for GBPUSD but we are not able to see anything claer on the chart, this is what called as sloppy price action where price is trading both of the ways & taking liquidity on both sides.
+
+We need to get comfortable with such environments where no opportunity will be present in the market & we need to accept & be comfortable with rather than forcing the trades & lossing money in it.
+
+**GBPUSD 15M :-**
+
+<img src="./assets/2022-mentorship/s19-gbpusd-15m.png">
+
+As as hourly timeframe there is no clear direction on 15m timeframe for GBPUSD and in such scenarios just shut down your computer and do the things you love to do outside of the market.
+
+We dont need to trade daily, if you are getting excited to trade daily then its not trading its gambling & we are not promoting gambling here. real trading is about trading single lot & doubling your account with minimum possible risk & consitent profits.
+
+**EMINI S&P 1D :-**
+
+<img src="./assets/2022-mentorship/s19-sp-1d.png">
+
+We are having look on daily timeframe for S&P and price took out buy stops & now retraced into the discounted zone or equilibrium from premium so there is a possiblity price can move to upside now.
+
+If we are expecting bullish move it can go up to median point of bearish order block candle which we have drawn on daily timeframe but the easiest of it is the low of that candle which is easily achieveable.
+
+The only thing we need to do is to buy below openig price & we can target for the low of the bearish orderblock candle & we can take entry with purge and reverse.
+
+`Purge & reverse :- Price takes out previous swing low in bullish env & swing high in bearish env and it goes to the high of previous 3 days.`
+
+**EMINI S&P 1H :-**
+
+<img src="./assets/2022-mentorship/s19-sp-1h.png">
+<img src="./assets/2022-mentorship/s19-sp-1h-2.png">
+
+We have dropped down to 1h timeframe for by keepin bullish bias in mind for reaching out to the low of daily orderblock candle.
+
+We cannot see any reference in hourly chart for the move which is already happend but we are going to drop down to lower timeframe to figure out the entry & we will be targetting the liquidity resting above the relative equal highs as mentioned in the second image above.
+
+**EMINI S&P 15M :-**
+
+<img src="./assets/2022-mentorship/S19-SP-15M.png">
+
+We have dropped down to 15m timeframe for finding our setups which we wasnt able to figure out any refrerence point on hourly chart.
+
+We have marked `EST 12:00AM & EST 8:30AM` which is `IST 9:30AM & 6:00PM` and sometimes price dont goes down below the new york midnight in bullish env & above in bearish vice versa thats why we consider 8:30am as well as opening price so we can refer to it for the entries below the opening price when its not ran down to newyork midnight open.
+
+`Note :- When midnight price is below than est 8:30am price then prefer to 8:30am pricing & if 8:30am price is below than midnight open then we are having price at really really discounted price.`
+
+Lets focus on price in the new york session after `EST 8:30AM & IST 9:30AM` on lower timeframes.
+
+**EMINI S&P 5M :-**
+
+<img src="./assets/2022-mentorship/S19-SP-5M.png">
+
+Here you can see after the new york open we expect to short term lows taken out for smart money to enter & then draw the price towards the liquidity we are targetting from the 15m chart.
+
+Notice after taking short term lows how price has retraced into `FVG` which is cherry on the cake, we was having bullish bias, price is trading below newyork midnight & EST 8:30AM open and also it retraced into an fair value gap so thats where all confluences are getting lined up.
+
+We can take entry by targetting the liquidtity from 15m timeframe range & by keeping stoplossbelow the `FVG` swing low.
+
+**EMINI S&P 1M :-**
+
+<img src="./assets/2022-mentorship/s19-sp-1m.png">
+
+As you can see according to our 2022 model we got entry on 1m timeframe where price given `MSS + FVG` where price smoothly retraced & price got delivered to the liquidity resting above the buy stops from the 15m timeframe.
+
+### 2022 MODEL FOR LONDON OPEN KILL ZONE
+
+In this section we will be having look on how to use 2022 model `MSS + FVG` setup in london session as mentioned below.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s20-1h.png">
+
+In the aboe chart you can notice according to our previous section analysis we was expecting price to be draw below 100 level, But how much low?
+
+Till the `99.20` level because it aligns with the fair value which is the low of the day to its left side which has been formed after `MSS + FVG` in previous trading days & we was expecting price to target the liquidity resting above the previous swing high.
+
+As we mentioned earlier we will be learining `MSS + FVG` setup for london session.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s20-15m.png">
+
+We have fine tuned our 1h analysis to 15m timeframe as we can notice when price reached to our expected level `99.20` price created low of the day in the london open kill zone & it given MSS & FVG formed after breakout of intermediate swing high and price retraced into it.
+
+We can take entry in it cleanly & we can target liquidity or buy stops resting above previous swing highs which are also relative equal high's.
+
+**Lets relate usdx analysis with trading pairs :-**
+
+**EURUSD 1H :-**
+
+<img src="./assets/2022-mentorship/s20-eur-1h.png">
+
+At the same time you can notice eur had reached to weekly high & pierced it for buy side liquidity which is very obvious after which price will be likely to go lower for rebalancing price or taking, coming down to discount zone from preum zone & to target sell side liquidty.
+
+So we are having bias for bearish for EURUSD according to the analysis we did on USDX in previous sections.
+
+**EURUSD 2M :-**
+
+<img src="./assets/2022-mentorship/s20-eur-2m.png">
+
+At the very moment where price took out buy side liquidity we will be hunting for `MSS + FVG` setup in it by having look on smaller timeframe such as `15m, 5, 3m, 1m` etc.
+
+While dropping to smaller timeframe we found very clean setup for `MSS + FVG` setup in it.
+
+BUT
+
+when price has created fvg you can notice its next candle is bearish which we cant consider for the entry because we want strong displacement from fair value gap before retracing in it so we will be waiting for tha displacement from that fair value gap & retracing into it.
+
+After some time price retraced into our fvg where we can take entry by keeping stoploss above the swing high above weekly range.
+
+<img src="./assets/2022-mentorship/s20-eur-target.png">
+
+We can target the area around discounted zone with imbalance or sell side liquidity which will be around 50% & we can keep some order for remaining run till the fair value gap mentioned in the above image because thats where price can go for rebalancing.
+
+### USD Index Corelation with Futures
+
+In this section we will be having look on USDX & Futures Co-relation and how we can utilitze it for confirmation, confluences or important factor of our entries
+
+<img src="./assets/2022-mentorship/s21-1h.png">
+
+You can see below orange line chart is representing the price of `EMINI S&P JUNE 2022` contract & the point where we have reached to the low below `99.20` level as we have discussed in the previous section emini made high of it.
+
+When the Usd dollar started its move to upside `EMINI S&P JUNE 2022` started to going lower, `when dollar rised emini goes lower` and this is the co-relation for the usdx.
+
+Lets dig into emini for the setup according to the discussed context.
+
+**EMINI :-**
+
+**1d analysis :-**
+
+<img src="./assets/2022-mentorship/s21-emini-1d.png">
+
+On the daily timeframe orderblock formed in which price has retraced and we are expecting price to take out sell side liquidity either by giving strong rejection in the fair value gap formed or its going stright down to raid the liquidity.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s21-emini-1h.png">
+
+On the 1h timeframe we can see we when price was was retracing a little bit upside and on the day it took out previous day high in bearish bias we was expecting price to flirt with `4320` level but it didn't & its okay. even ICT gets wrong sometimes.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s21-emini-15m.png">
+
+You can notice even our bias was bullish & according to PO3 (Power of three) we should look for the opportunities above the opening price.
+
+If we are trading in the london session we should refer to `EST 12:00AM & IST 9:30AM` as opening price & if we are trading in new york session we should refer to `EST 8:30AM & IST 6:00PM`.
+
+But 
+
+Price didnt given the juda swing which is the false move against the direction of the day so what to do? Sometimes market are so much unidirectional that it doesnt gives an false move but we should not think in the way that they know this stuff, price delivery algoritm is changing and all those things.
+
+It is the part of game, somemtimes we dont get opportunity according to setup but its totally okay than forcing your setup & getting into wrong entry which can lead you to losses.
+
+But we have got onee entry even if it doesnt respect po3 condition, In the new york session price took out recent swing low and given `MSS + FVG` setup which we can trade & if we are trading in new york if we refer to the EST `8:30AM & IST 6:00PM` as opening price then also we got an setup wehre price took out short term low and given `MSS + FVG` setup where we can take the entry.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s21-emini-5m.png">
+
+According to our setup in the new york session we look for the left side equal lows in terms or bearish MSS & equal highs for bullish MSS.
+
+We will be refering to new york opening time as  `EST 8:30AM & IST 6:00PM` after which price took out relative equal lows & given bearish `MSS + FVG` setup where we can take the entry.
+
+We can keep our stoploss above previous 2 swing high's & we can target for the liquidity area which we have marked on daily timeframe.
+
+Let's dig down to lower timeframes for more details.
+
+**3m, 2m, 1m analysis :-**
+
+<img src="./assets/2022-mentorship/s21-emini-3m.png">
+<img src="./assets/2022-mentorship/s21-emini-2m.png">
+<img src="./assets/2022-mentorship/s21-emini-1m.png">
+
+We are able to see our 5m entry along with some other entries within the smaller timeframes, where we can get into the already going on move with this kind of moves.
+
+Sometimes our setup does not establish as it should but it all that matters is the daily bias if we are holding on it then we can look for such kind of small timeframe steup carefully.
+
+### Rewinding what we have covered up till now
+
+In this section we will be coming back to what we was looking & learning from last several weeks on emini S&P FUTURES.
+
+**1d :-**
+
+<img src="./assets/2022-mentorship/s22-1d.png">
+
+You might remember from last session that we was expecting price to be moving downwards after retracing into daily bearish order block to take out the sell side liquidity resting below the previous swing low's.
+
+**1h :-**
+
+<img src="./assets/2022-mentorship/s22-1h.png">
+
+As you can with the bearish bias in mind from the daily timeframe, we are are able to see gap in the price as well as an fair value gap, but we are not able to see any market structure shift or other details at the moment.
+
+Look how perfectly the candles are respecting the fair value gap, volume is there, price is going above that fair value gap but not the bodies which is an strong indication of high probability fair value gap.
+
+SO WHAT DO WE DO?
+
+We switch to lower timeframe to lookout for more details.
+
+**15m :-**
+
+<img src="./assets/2022-mentorship/s22-15m.png">
+
+As you can notice on the 15m timeframe we have marked `EST 8:30AM & IST 6:00PM` time with horizontal line.
+
+We mark the `EST 8:30AM & IST 6:00PM` opening price to which we are going to refer as we are trading in new york session.
+
+After new york opening what price did? price took out buy stops resting above the short term swing high & it given `MSS + FVG` setup by keeping our bearish daily bias in mind & we will be expecting price to reachout the liqudity marked with the below line from the daily timeframe.
+
+**5m :-**
+
+<img src="./assets/2022-mentorship/s22-5m.png">
+
+As we have dropped down to lower timeframe we are able to see more relative equal high's left to the new york est 8:30am opening and we will be expecting price to take out that buy side liquidity whicih price did before bearish `MSS + FVG`.
+
+lets zoom in to the area where price took out buy side liquidity on 5m timefrmae on 1m timeframe.
+
+**1m timeframe :-**
+
+<img src="./assets/2022-mentorship/s22-1m.png">
+
+You can notice we have zoomed into the area where price took out buys side liquidity, and we are able to notice there is very short term swing low over there where we have pointed out.
+
+When price given bearish `MSS + FVG` setup to it, we can take fine tuned entry there by keeping higher timeframe bias in mind & we can target for the nearish opposing liquidity or the liquidity from the daily timeframe marked with the blue line on the chart.
+
+<img src="./assets/2022-mentorship/s22-1m-stop.png">
+
+We can keep our stoploss above our `FVG` but by considering the volatility in the market we should give breathable space to our trade rahter than ony focusing on profits like gamblers & we are not learning gambling here. 
+
+We can keep she stoploss with the marked level in the image for price to give flexibility & we can enter into the trade.
+
+**ICT trade in NASDAQ with this narrative :-**
+
+<img src="./assets/2022-mentorship/s22-nq-5m.png">
+
+What we are able to see here, price took out previous swing high or buy side liqudity, created long term high & bearish `MARKET STRUCTURE SHIFT` and it created 2 fair value gaps.
+
+In those 2 fair value gaps above one is likely to reach out & sweep through lower fair value gap and we can take high probability entry on higher or lower fair value gap.
+
+But ICT missed that move & ict took entry when price traded into blue shared area.
+
+WHY???
+
+Because there is micro `MSS + FVG` setup after our main setup which is double confirmation of price to be drawing lower according to our daily bias on emini & emini, nasdaq moves into same direction.
+
+After that second confirmaotion in that blue zone, what is there have you noticed? bearish orderblock, but in 2022 model we didnt learned about orderblocks.
+
+Lets breakdown that orderblock in lower timeframe.
+
+**1m timeframe :-**
+
+<img src="./assets/2022-mentorship/s22-nq-1m.png">
+
+As you can see we have fine tuned outr order block to the bullish candle before the short market structure shift & when price retraced into that orderblock ict entered with `3 CONTRACTS` in.
+
+When price again broke down 3 swing lows after drawing above the order block and created `MSS + FVG` setup ict entered `2 CONTRACTS` & when price again given the same setup on micro structure ict entered with `1 CONTRACT`.
+
+You can notice how ict deployed his big position with fractions, biggest position at initially & reducing the size gradually & ict targetted the liquidity from the 5m timeframe drawn.
+
+<img src="./assets/2022-mentorship/s22-emini-smt.png">
+
+<img src="./assets/2022-mentorship/s22-nq-smt.png">
+
+As you can see according to our bearish bias emini was strongly bearish whereas nasdaq given smt divergence.
+
+Means
+
+Emini creating lower low where nasdaw created its higher high which indicates it was stop raid before the downmove & that's the co-relation we should look for rather than others. 
+
+When all things combined & directing towards single direction that's where high probability setup forms.
+
+
+### ICT LIVE TRADE
+
+In this session we will how ict took trade & what was the analysis behind it.
+
+<img src="./assets/2022-mentorship/s23-1m.png">
+
+In the above section we are having bullish bias from higher timeframe & there is fomc also aligning in our trade.
+
+According to bullish bias from daily timeframe we are expecting price to draw lower to the blue line which is the order block line from higher timeframe & there is also an imbalance aligning nearby to that orderblock level.
+
+Only we are expcting our price to retrace in order block, retracing into higher timeframe order block because that will the only level price can go lower before breaking pervious day high marked with red line.
+
+When price will be retracing into HTF orderblock + imbalance + draw on sell side liquidity for previous swing low & then we are expecting price to go higher for breaking out previous day high.
+
+<img src="./assets/2022-mentorship/s23-1m-target.png">
+
+As you can see price retraced into our marked out imbalance & rallyed to the green level above previous day high.
+
+BUT WHY TP LEVEL THERE?
+
+Because the only thing we know that price will be going higher than previous day high till where we can figure out that with the help of fibs, we have marked the fib on price leg before bullish move from highest to lowest body we got that level
+
+Thats why we have choosed that level for take profit.
+
+### Decision Making for 2022 Model
+
+In this section we will be learning how to handle the scenarios which doen't paint out as we expect.
+
+**1d analysis :-**
+<img src="./assets/2022-mentorship/s24-1d.png">
+
+After the FOMC day we was expecting the to be relative equal high's to be taken out & then move lower according to our bias.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s24-1h.png">
+
+In the above image you can see we was expecting price to take out buy side liquidity resting above the blue line drawn for relative equal high's.
+
+BUT IT DIDN'T TOOK OUT BS LIQUIDITY & NOT MOVED ACCORDING TO OUR EXPECTATION.
+
+WHY????
+
+LET'S TAKE LOOK AT IT ON LOWER TIMEFRAME.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s24-5m.png">
+
+According to whatever we have learned till the date we was expecting juda swing after `EST 9:30AM & IST 7:00PM` open in which we was expecting price to expect in that `FVG` drawn out in the above image.
+
+After that according to our setup what we expect is that, according to bias directoin for bullish we expect strong displacement to buy side & to form  `BULLISH MSS + FVG` for the entry to the buy side.
+
+But can you notice it didn't formed which would indicate us for the buy side entry & but people took entry for the buy side in the retracement of that fair value gap without waiting to our setup form for confirmation would have lost money most probably.
+
+**5M analysis :-**
+
+<img src="./assets/2022-mentorship/s24-5m.png">
+
+As you can see according to our rules the low created by price when retraced into fair value gap should have been taken out strongly with buy side displacement & relative equal high's to forming `MSS + FVG` setup & if it's not just stay out of our trade.
+
+**Where our 2022 MODEL setup forms :-**
+
+- **Our Robust Model :-**
+
+  <img src="./assets/2022-mentorship/s24-first-approach.png">
+
+  As we have studied till the date about the model, we first loook for the relative equal high's in terms or bearish setup & relative equal low's for bullish setup.
+
+  Then we wait to price take out that relative equal high's or low's liquidity & give market structure shift to the opposing side with strong displacement.
+
+  `We mark the area for displacement high to low for looking out the fair value gaps in it after sucessfull strong displacment which shifted the market structure`
+
+  When we find fair value gap in it & price retraces to it `after confirmation of market structure shift to opposing side + draw on liquidity + retracement in fair value gap` then only we take entry.
+
+- **Our Model when price retraces into imbalance :-**
+
+  <img src="./assets/2022-mentorship/s24-imb-approach.png">
+
+  Here in this approach all the logic is the same. treat that fair value gap low as an your realtive equal high's which are broken.
+
+  For our setup to form what price needs to do?, it needs to take out the liquidity resting below the short term low which is created before retracing intto fair value gap.
+
+  Until and unless it is taken out that too with the strong displacement there is no setup there and we need to stay out of it if it doesn't qualifies our critiria.
+
+  ### Model with seasonal tendencies
+
+  In this section we will be coupling our modal with seasonal tedencies.
+
+**1d analysis :-**
+
+  <img src="./assets/2022-mentorship/s25-1d.png">
+  <img src="./assets/2022-mentorship/s25-1d-2.png">
+
+  You can notice in the first image we are at price point where we have analyzed that price will likely to target te sell side liquidity after retracing into daily orderblock.
+
+  why sell side liquidity? `Because In the May's USDX, NASDAQ, S&P likely to go lower` and it is not just fact but it is the repetative move has been captured over the period of time.
+
+  Lets focus where price took out sell side liquidity resting below the relative equal low's.
+
+  <img src="./assets/2022-mentorship/s25-1d-3.png">
+
+  Notice when price took out the liquidity there was no `FVG` formed nor anyone expected & able to find the fair value gap in it, but let's see ict perception on it.
+
+  The candle formed after that day seems to be indecisive candle but NOOOOO!!!!
+
+  ICT is having differet perception about it & trying to teach something out of it.
+
+  Lets zoom into that area.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s25-1h.png">
+
+We have marked `EST 12:00AM & IST 9:30AM` opening prices on the chart with vertical line for segrigating price action for individual days.
+
+You can see after breaking it down to 1h timefrmae what we are able to notice?
+
+The day we saw on daily timeframe as indecisive candle we are able to see price after `EST 9:30AM & IST 7:00PM` price took out relative equal high's & drawn to sell side liquidity and closed near the day opening.
+
+The day seemed to us as indecisive candle but inside it price delivered form premium to discount zone & retraced around its opening price.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s25-15m.png">
+
+On the 15m timefrmae we have marked our new york opening which is `EST 8:30AM & IST 6:00` & what pric did is PO3 formation for bearish setup.
+
+You can notice price balanced to the fridays low of previous week at very `EST 9:30AM & IST 7:00PM` & then given strong displacement to downside, we are not able to see clear fair value gap in it but it delivered to the sell side liquidity after that breakdown.
+
+Let's zoom into it lower timeframe for checking out the fair value gaps have been created within that displacement after rebalancing price to friday's low.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s25-5m.png">
+
+As you can see are now focusing on the area where price created its high of the day after `EST 9:30AM & IST 6:00PM`.
+
+We are still not able to see the fair value gap in it when it given displacement to the downside & given market structure shift. 
+
+`SO WHAT DO WE DO? WE SWITCH DOWN TO LOWER TIMEFRAME IN SEARCH OF IT`
+
+Let's switch down to smaller timeframe for it.
+
+**4m & 3m timeframe :-**
+
+<img src="./assets/2022-mentorship/s25-4m.png">
+<img src="./assets/2022-mentorship/s25-3m.png">
+
+We are able to see one fair value gap in the price but you can see price is not into the premium zone where we should likely to sell.
+
+`NOTE :- If fair value gap forms & price retraces into it in premium zone in bearish & discounted zone in bullish environment don't take that trade. We dont want to sell in discounted zone & buy into premium zone as we are already entering at expensive price soo.`
+
+**2m analysis :-**
+
+<img src="./assets/2022-mentorship/s25-2m.png">
+<img src="./assets/2022-mentorship/s25-2m-sl.png">
+
+As you can notice we have found our fair value gap on 2m timefrmae so we dont need to dig down to lower timeframe anymore.
+
+When price retraces into the fair value gap we will be taking entry for sell side by keeping our `stoploss atleast above the candle's high which created the fair value gap. or best case scenario would be above the swing high` & we can target for the sell side liquidity.
+
+`Note :- Price delivery algorithm resets on EST 12:00AM & IST 9:30AM not on welington open in the AU sessoin.`
+
+`Note :- There is no need to join the private mentorhip or ICT BECAUSE!!!! in that mentorship lot's of things got teached & everything works and ict let their students build their model around those concepts, but its better to focus on 1 pair, 1 setup will take us to profitability so we don't need to overwhelm ourselves with lot of concepts such as breaker, mitigation blocks, efficiencies, etc`
+
+### Trading Against daily bias with institutional orderflow
+
+In this section we will be having look how ict trades in liver market, how trails stoploss, how set target everything.
+
+We are having look on EMINI-S&P on 1m timeframe and we will be trading against the dailu bias which is bearish but ICT is taking trade for buy due to institutional flow.
+
+**Entry :-**
+
+<img src="./assets/2022-mentorship/s26-entry.png">
+<img src="./assets/2022-mentorship/s26-fvg.png">
+
+As you can ICT took entry into buyside position with 4 lots.
+
+WHY???
+
+Because price took sell side liquidity & also retraced into an `FVG` which occured after `MSS` and we are expecting price to take out buyside liquidity.
+
+**PYRAMID ENTRY :-**
+
+<img src="./assets/2022-mentorship/s26-pyramid.png">
+
+As you can see in price has given the strong displacement to the upside & took out buy side liquidity when our trade is going on.
+
+After that price has retraced into order-block which we are considering relative equal high consecutive candles.
+
+We entered added `2 contracts` into our positoin as as we it given us another opportunity in our existing setup.
+
+`NOTE :- Even if you are already in trade & if it given setup on macro level then we add the position in the existing trade & we trail the stoploss a little bit to manage the risk.`
+
+**Target :-**
+
+<img src="./assets/2022-mentorship/s26-target.png">
+<img src="./assets/2022-mentorship/s26-target-2.png">
+
+As you can see we have marked the buyside liquidity for the target but it's not necessary price needs to be reached over there for profitibility we can sell larget portion of our position when price will take our the relative equal which will be our first target.
+
+**Stop Loss :-**
+
+<img src="./assets/2022-mentorship/s26-sl.png">
+
+As you can see according to our traditional entry model we kept our stoploss below the displacement & `FVG low`.
+
+**Trailing Stoploss :-**
+
+<img src="./assets/2022-mentorship/s26-tsl.png">
+
+As you can see as soon as we have added position into our trade we have trailed our stoploss below the order block low as our second setup based on it.
+
+We have trailed our stoploss according to our 2nd pyramid entry model which was orderblock so we have trailed our stoploss below the low of the order block.
+
+
+**Exit :-**
+
+<img src="./assets/2022-mentorship/s26-exit.png">
+
+As you can see price moved towards our objective to take out large amount of position which was short term buy side liquidity.
+
+Price didnt reache our target within the single candle, it slowly & steadily delivered according to our price delivery algorithm.
+
+`We left the 2 lots for letting it run towards the liquidity we have marked above our short term liquidity, and we monitor the trade if it breaks the market structure to downside we are exiting the trade.`
+
+`Note :- Once we are in setup, we should trust that setup & it can move against us as well but we just need to follow setup by not keeping expection of price will hit our target in direct movement.`
+
+
+### Counter trade Ideas
+
+In this section we will be having look on counter trade ideas.
+
+<img src="./assets/2022-mentorship/s27-1d.png">
+
+You can see in the last week, price dropped strongly in last 4 days from monday & on friday it is trading higher side.
+
+The point where we are pointing on the chart clean having relative equal high's which we are expecting to be taken.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s27-1h.png">
+
+As you can see price already took sell side liquidity to previously relative equal low's & in the current moment already trading higher to those.
+
+If we have imbalance in the way we expect to price reach out to that before liquidity but we are already upside of the imbalance & now we are expecting price to take out buy side liquidity above that relative equal high's.
+
+**15m & 5m analysis :-**
+
+<img src="./assets/2022-mentorship/s27-15m.png">
+<img src="./assets/2022-mentorship/s27-5m.png">
+
+`As we know that if we are expecting price to be likely going to higher first it grabs the nearest liquidity of counter side to shift higher AS WE HAVE LEARNT IN MARKET MAKER MODEL`
+
+After liquidity taken & juda swing which traded price below opening price it drastically delivered to the higher side.
+
+In lunch hours as we know it likely to give retracement in that retracement in traded into the discounted zone, as well as it had retraced into the fair value gap which we have marked in the 5m chart above.
+
+We will be focuing on the fair value gap formed after displacement out of the retracement consolidation in lower timeframes.
+
+**4m,3m,2m timeframe :-**
+
+<img src="./assets/2022-mentorship/s27-3m.png">
+<img src="./assets/2022-mentorship/s27-4m.png">
+<img src="./assets/2022-mentorship/s27-2m.png">
+
+While we was switching to lower timeframe we found the `MSS + FVG` setup on 2m timeframe where we can take the entry based on the confirmations such as `OB + FVG + DISCOUNT ZONE + HTF (Higher timeframe) FVG`.
+
+we can keep the stoploss below the `HTF FVG` and we can target for buy stops resting above relative equal highs which we have marked with blue line.
+
+`Note :- When you are annotating your chart put the information as you are talking to you in simple words which builds the habits & confidence about our analysis & how its paiying off on the chart.`
+
+### ICT LIVE TRADE
+
+In this section ict will be taking live trade according to 2022 model, we will be looking out each & every move took by ICT & the reason behind it.
+
+This is the day before retail rate, fedral chairman is spekaing tomorrow which are high volatility news event, The day going to be quite & lathargic but it take lot of experience to trade in such day.
+
+<img src="./assets/2022-mentorship/s29-1d.png">
+
+As you can see on daily timeframe `EMINI S&P` is trading around `4000` on the current day and we are expecting price likely to be moving higher to take out buy side liquidity resting above relative equal high's.
+
+**1m timeframe :-**
+
+<img src="./assets/2022-mentorship/s29-1m-smt.png">
+
+As you can see `NASDAQ` was creating lower low's which is relative pair to `EMINI S&P` but emini refused to create lower low's 2 times & it given SMT divergence 2 times over `NASDAQ` and we was having bullish bias accoriding to daily timeframe.
+
+**Entry :-**
+
+<img src="./assets/2022-mentorship/s29-1m.png">
+
+As you can see we was having daily bias as bullish, pric given smt divergence on emini referecing to nasdaq & given bullish `MSS + FVG` entry on it.
+
+Price retraced in `FVG` multiple times and ict took entry over there, again when price given `MSS + FVG` to the short term high ICT added the position into the trade.
+
+**Stop Loss :-**
+
+Ict have kept the stoploss gelow the displacement low & FVG low & he have trailed the stoploss when it given another `MSS + FVG` in macros.
+
+**Target :-**
+
+<img src="./assets/2022-mentorship/s29-1m.png">
+
+We will be targetting the buy side liqiudity resting above the relative equal high's & we will be exitting our full position over there.
+
+### 2022 SETUP IN NEWS ENVIORNMENT
+
+In this session we will be having look how ICT took entry even in the news enviornment along with our 2022 model & the narrative behind it.
+
+**1m analysis :-**
+
+<img src="./assets/2022-mentorship/s30-1m.png">
+
+There was an news event at `EST 2:00PM` after lunch hours & price first expanded above, cleared the liquidity resting above the new york lunch hours relative equal highs & drastically moved downside why to an `imbalance or FVG`.
+
+When it retraced into it was an entry point ict was looking for but it expanded and ict missed the entry, but price created bullish order block & retraced into it thats where ict took the entry into the trade.
+
+By keeping stoploss below the low created by price below `FVG` & ICT targetted liquidity above the marked area by red line around `12553.25`.
+
+As you can see price given 2 false moves first by taking out buy side after lunch hours liquidity & then taking out the sell side liquidity and then after retracing into imbalance its started its orignal move.
+
+**1h analysis -**
+
+<img src="./assets/2022-mentorship/s30-1h.png">
+
+As you can see we was expecting price to take out the liquidity marked above the area on the hourly timeframe according to our daily bias.
+
+**1d analysis :-**
+
+<img src="./assets/2022-mentorship/s30-1d.png">
+
+As you can see after taking sell side liquidity on daily timeframe it formed an relative equal high's & we was expecting price to take nearest buy side liquidity according to which we looked for buy side setup on lower timeframes & we wait patiently for it.
+
+### What if we dont get setup in our kill zones or New york opeings
+
+In this section we will be having look on `EMINI S&P` for finding the entry out of our New york opening timings & how to find the setup if we didn't find any in our setup timeframe.
+
+**Higher timeframe analysis :-**
+
+<img src="./assets/2022-mentorship/s31-1d.png">
+<img src="./assets/2022-mentorship/s31-1h.png">
+
+As you can see we was expecting price to take the liquidity resting below the low of previous day from daily timefrrame.
+
+On the hourly timeframe there was relative equal stacked in the zone where price can go to take the sell side liquidity resting over there.
+
+**15m & 5m analysis :-**
+<img src="./assets/2022-mentorship/s31-15m.png">
+
+As you can see on the 15m timeframe bearish order block formed in the downside move & according to our daily & hourly analysis we are expecting price to take out sell side liuqidity resting below previous day & relative equal lows.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s31-5m.png">
+
+As you can see price took out relative equal lows & with strong displacement to downside & given `MSS` & if formed `FVG` setup over there.
+
+We will be taking entry into that fair value gap above which price sweeped but our stpoloss would be resting below the candle created `FVG` & we will be targetting the liquidity from daily & hourly timeframe.
+
+**After lunch hours setups :-**
+
+<img src="./assets/2022-mentorship/s31-2m.png">
+
+<img src="./assets/2022-mentorship/s31-2m-2.png">
+
+As you can see it given multiple setups on micro level by keeping our daily & hourly timeframe bias in the mind.
+
+It given the setup after taking out lunch hours liquidity & `MSS + FVG`, retracement into `FVG` given us the entry.
+
+Same setup followed into the second image as well as mentioned above.
+
+### Out side the previous day range (Choppy Day)
+
+In this section we will be having look on choppy day which means in such days previous high & as well as low taken out no matter what daily order flow is.
+
+We will deep dive into that day to understand how we can trade our `MSS + FVG` setup in it.
+
+**1d analysis :-**
+
+<img src="./assets/2022-mentorship/s32-1d.png">
+
+As you can see price took out previous day high first & then it took out previous day's low as well in daily expansion.
+
+But it felt short to take the liquidity resting below the old low from daily timeframe.
+
+Let's take look at lower timeframes.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s32-1h.png">
+
+As you can see relative equal high's have formed on hourly timeframe and we was expecting the liquidity resting above to be taken & it did it in its next swing.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s32-5m.png">
+
+First of all we was having bearish bias previously to expect the price to be taken below the `3500.00` which we have marked on the chart for sell side liquidity.
+
+But price didn't took the sell side liquidity & fell short of it & after that it retraced into an fair value gap & discounted zone which was an entry according to our setup & we would have took entry over there.
+
+When price retraced into it we would have expect price to take out the liquidity resting below `3855` but it didn't, it just took out it's previous swing low & ride towards the upside.
+
+After that price traded towards the `3933.25` level & it swept the liquidity, but not draw on liquidity and `DRAW - MOVE PENETRATING THE LEVEL WITH SOME PIPS` & `SWEEP - MOVE JUST PEARCING THE LEVEL BUT DOES NOT CLOSE ITS BODY BEYOND LEVEL`.
+
+Then it came back into the discount zone & then it given the real & orignal move to take out the buysdie liquidity resting above `3933.25` & we was expecting price to come down to `50% or in discount zone` between `EST 3:00PM & 4:00PM & IST 12:00AM & 1:00AM`.
+
+Lets switch down to lower timeframes for getting more clarity on it & its retracement into the time window as we mentioned.
+
+**1m analysis :-**
+
+<img src="./assets/2022-mentorship/s32-1m.png">
+
+As we can see we was expecting price to trade down to discount zone & equilibrium in between `EST 3:00PM TO 4:00PM & IST 12:00AM TO 1:00AM`.
+
+As price took out the liquidity resting above the `3933.25` it given strond displacement to lower side which caused `MSS + FVG` setup, price retraced into that and that's when we would be looking for enty for sell side.
+
+We will be taking entry at the retracement by keeping stoploss above the candle caused `FVG` & by keeping the narrative of price to retracement in 50% and we will be targetting for the same.
+
+<img src="./assets/2022-mentorship/s32-1m-2.png">
+
+As you can see the live position of ict, ict took partial of his 2 positions out of 4 at the equilibrium & it kept 2 position running so either it hits the stops or target either is accpeted by ict.
+
+`NOTE :- In the choppy days like this dont take trade until you are having clarity of the direction & untill and unless setups forms into the direction of your daily bias.`
+
+### ICT'S SON TRADE EXAMPLE
+
+In this section ict will be showing example of trade his own son took in his live account & what was the reasons & analysis behind from the ICT's teachings.
+
+**1d analysis :-**
+
+<img src="./assets/2022-mentorship/s33-1d.png">
+
+On the daily timeframe we was expecing sell side liquidity to be taken resting below the relative equal lows and opporunities in the same context.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s33-1h.png">
+
+On the hourly chart there was `Imbalance or FVG` where we was looking for retraement & more over price to be traded above that `FVG` because price normally takes the buy side liquidity before running to sell side.
+
+But price didn't took the buy side liquidity, and as our setup advices we was waiting for relative equal lows to be taken out to `MSS + FVG` to be created & price took out the lows with strong displacement.
+
+That's where we will be looking for our setup on lower timeframes for finding the entry.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s33-15m.png">
+
+We will be focusing on the candle with strong displacement & caused the `MSS` on lower timeframe.
+
+As you can after price delivering our target form daily timeframe for the liquidity resting below the equal low's it given the setup to buy side by bullish `MSS + FVG` and targetting for imbalance which we have marked on the chart above.
+
+As it was friday it retraces a little bit to rebalnce the fridays range before closing for the week.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s33-5m.png">
+
+As we have swithced to lower timeframe for finding `bearish  FVG` after the `MSS` to the sellside from the higher timeframe.
+
+We will be taking entry on the retracement of price by keeping stoploss above the the candle which caused the `FVG or swing high` & we will be targetting for the the liquidity area marked with white line from the higher timeframe according to our bias.
+
+**1m analysis :-**
+
+<img src="./assets/2022-mentorship/s33-1m.png">
+
+As you can see we was not able to see price going into the premium zone while retracing into the `FVG` but on the 1m timeframe we can see how the premium zone also getting aligned with our `FVG`.
+
+### Sunday's Opening Gap 
+
+In this section we will be seeing 2022 model in the gap down or gap up opening market scenario & how we can analyze or trade it.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s34-15m.png">
+
+As you can see in the above image market had opened gap down & we have marked the area for the gap.
+
+After the gap market moved lower, created relative equal lows & broke that relative equal high's but didn't gave any setup, created relative equal high's & broke those down with strong displacement but created very little `FVG`.
+
+Given us the entry for the trade, dropped to take the sell side liquidity & retraced into higher timeframe `Imbalance or FVG`.
+
+After retracing into imbalance it given bullish `MSS` with strong displacement & created `FVG` which gave us another entry for the trade & And targetted buy side liquidity resting above the gap opening price high.
+
+Let's drop down to lower timeframe.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s34-5m.png">
+<img src="./assets/2022-mentorship/s34-5m-2.png">
+
+As you can see we have dropped down to 5m timeframe where we are able to see multiple setups.
+
+When price opened & given firt bearish `MSS + FVG` entry for tartetting imbalance & sell side liquidity.
+
+When price reversed from the `imbalance` after draw on sell side liquidity it given bullish `MSS + FVG + OB` setup potentially targetting towards buy side liquidity formed around the bearish `FVG` where our previous entry was there.
+
+Price again came back down to sundays opening gap & given Bullish `MSS + FVG + OB` setup which was the best among these for targetting the buy sude liquidity which we have marked with purple line because it was not taken.
+
+`Note :- Sunday's opening gap acts as dynamic support and resistance to the price thoruhgout the week, if price trading below that & weekly orderflow if bullish then it acts as support & if weekly order flow is bearish & price below that gap it acts resistance to price. SOMETIMES IT DOESNT CAM BACK TO THE GAP & IT RUNS AWAY FROM THAT GAP WHICH IS STRONG INDICATION OF PRICE BEHAVIOUR & ITS INTENTION TO GO HIGHER OR LOWER.`
+
+**2m timeframe :-**
+
+<img src="./assets/2022-mentorship/s34-2m.png">
+
+As you can see we was not able to see clear `FVG` on the 15m & 5m charts but we are able to see the `MSS + FVG` setup more clearer on the 2m timeframe.
+
+### How to use premium & discount zone to combine with our setup 
+
+We can combine premium which is `price > 50%` & discount `price < 50%` ZONES with our `MSS + FVG` setup to make sure we are buying in discounts for long positions & we are selling in premium zone for shorts.
+
+**How to use :-**
+
+- First figure out what is the higher timeframe bias & where we are seeking the liquidity either on buy side or on sell side.
+
+- Drop to lower timeframe for your entries such as `15m,5m,3m,1m` on whihc you are trying to find the setup in.
+
+<img src="./assets/2022-mentorship/s34-prds.png">
+<img src="./assets/2022-mentorship/s34-prds-2.png">
+
+- Draw the fib from low to high for the price expansion swing which didn't came in discount yet & we are expecting it to retrace into the `discount (Long Positions)` & `Premium (Short Positions)`.
+
+- If its already retraced into the zones we dont refer to the price legs for finding premium & discount because price has already delivered to discount or premium for that price swing.
+
+### 
+
+
+**1d analysis :-**
+
+<img src="./assets/2022-mentorship/s35-1d.png">
+
+As you can see in the above image price is in downtrend & we was expecting price to retrace retrace into order block after it took out sell side liquidity.
+
+It already retaraced into order block & still continuing to go higher which means it is willing to draw on buy side liquidity on short term relative equal high's.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s35-15m.png">
+
+On the 15m timeframe you can notice after taking session opening premium high liquidity sweep price retraced into `FVG` & for draw on liquidity on it.
+
+Then it consolidated little bit, created relative short term high's & after new york lunch hours it took out buy side liquidity resting above the realtive equal high's with strong displacement & retraced into the `OB`.
+
+We will be dropping down to lower timeframes for the price action when price retraced into `OB` for more details.
+
+**5m analysis :-**
+
+
+<img src="./assets/2022-mentorship/s35-5m.png">
+
+As you can see The point where we are noticing has given `MSS` with strong displacement to short term high & created `FVG` which gave us entry which we can & we wan target the liquidity marked with orange line from higher timeframe.
+
+Let drop to lower timeframes for look into more details for `FVG RETRACEMENT AREA`.
+
+<img src="./assets/2022-mentorship/s35-5m-2.png">
+
+After our previous move price dropped into the `FVG` which is getting aligned with `OB` & thats where we will be taking entry, by keeping stoploss belwo the swing low or `FVG CANDLE LOW` and we will be targetting the orderblock mid or high from the daily timeframe.
+
+**Divergence with NASDAQ :-**
+
+<img src="./assets/2022-mentorship/s35-5m-smt.png">
+
+As you can see we have plotted the lows of nasdaq into our charts & we can see an `SMT` divergence in `EMINI S&P 500`.
+
+`NASDAQ` had made lower low but Emini refused to make lower low which means accumulation is going on in `EMINI S&P 500` & along with it we are also having daily bias of price to retracing into bearish orderblock from daily timeframe.
+
+`Note :- Divergence happens at some important timings such as EST 8:30AM & IST 6:00PM, EST 9:30AM & IST 7:00PM, at news events etc. we need to keep eye on co-related pairs in such important timings.`
+
+### Choosing right Entry
+
+<img src="./assets/2022-mentorship/s36-1h.png">
+
+As you can see we have drawn the fib from swing high & swing low, Price is currently trading in discount zone & retraced into an `Imbalance or FVG` which indicates oversold conditions without any indicators.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s36-5m.png">
+
+According to our hourly bias price is retraced into `FVG` AND WE ARE EXPECTING PRICE TO TO TAKE BUY SIDE LIQUIDITY.
+
+As you can see when price first drawn on sell side liquidity & given bullish `MSS` with strong displacement which created `FVG` which gives us opportunity to go long by keeping stoploss below recent swing low or below the candle which created `FVG` and to target `Buyside Imbalance` marked or buy side liquidity.
+
+**1m analysis :-**
+
+<img src="./assets/2022-mentorship/s36-1m.png">
+
+Here in the 1m chart you can see the trades took by ICT himself.
+
+The reason behind the first trade was we was having our bullish bias in our mind & we was expecting price to take out buy side liqudity marked from 5m chart with read line, This entry was the first price leg before giving `MSS + FVG` setup on which we drawn `FVG`.
+
+Price took the buy side liquidity at `EST 9:30AM & IST 7:00PM` & we took entry when price retraced into discount because we was confident enough that price will not take sell side liquidity because it didn't even at `EST 8:30AM & IST 7:00PM` news so we took the entry.
+
+
+The second trade we are able to see on the screen is the setup which we just saw on 5m timeframe where price given bullish `MSS + FVG` setup & its the same on 1m timefrmae, where price created `FVG` on 1m timefrmae & retraced into it multiple times but ICT patiently waited to sell side liquidity taken & then took entry because price rallies towards its orignal move only when draws on opposing side liquidity.
+
+ICT took entry by keeping stoploss below the `FVG` low & previous swing low & targetted for buy side liquidity marked on 5m timefrmae.
+
+<img src="./assets/2022-mentorship/s36-tweet.png">
+
+Ict twitted about the same when price took sell side liquidity for its free to run `4143.50` & price delivered in the same manner as it was expected to.
+
+`Note :- Price starts rallying when it takes out opposing side liquidity, If we have strong bias on daily timeframe & price took opposing side liquidity & its also retracing in some sort of FVG + OB then its an high probability trade.`
+
+### Don't trade ahead of Wednesdays's new york open
+
+**1d analysis :-**
+
+<img src="./assets/2022-mentorship/s37-1d.png">
+
+As we can see price had took sell side liquidity recently & given bullish `MSS + FVG` on the daily timefrmae & price already retraced into the `FVG`.
+
+We are expecting price to take the nearest buy side liquidity marked with red line with `4200` & `4290` if it keep rising towards the upside.
+
+`In the upcoming day there is a new event which is not advisable to trade with live money, atleast for beginners but we can study the price how it delivers to liquidity in news enviornment without taking any actual trades.`
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s37-1h.png">
+
+As you can see the fair value gap marked with blue lines from daily tiemframe & red line is the buy side liquidity which we are expecting to be taken in upcoming days.
+
+As we can notice it recently given Bullish `MSS + FVG` setup so it can retrace it to the `FVG` we pointing on the hourly timeframe & then we expect price to take buy side liquidity marked on the chart.
+
+
+Lets switch to lower timeframe for more details.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s37-15m.png">
+
+After the new york open `EST 12:00AM & IST 9:30AM` price traded into the short term fair value gap & rallyed upside where we was expecting price to take buy side liquidity marked with red line.
+
+But we was wrong, price consolidated near the liquidity, dropped down into daily timeframe `FVG`, took out sell side liquidity & daily timeframe `FVG LOW` which would take us out of the trade.
+
+Then it rallyed & took out buy side liquidity & continued rallying.
+
+`Note :- Its advised to stop trading ahead of new york session if you not bagged anything from the sunday's opening & wednsday's new york open.`
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s37-5m.png">
+
+When price took out sell side liquidity & took out `FVG LOW` on daily timeframe that's where was expect to seek for the setup & entry on lower timeframes.
+
+ICT was not available that time didn't took the trade either at that time.
+
+**Ict Twets :-**
+
+<img src="./assets/2022-mentorship/s37-tweet.png">
+
+ICT tweeted after getting back on charts for watch out `IMBALANCE or FVG` on the 5m timeframe where we are expecting price to be drawn, And when ICT Tweets some kind of stuff its not an trade advice but we can focus on it, if it set's up the stage for us by giving setup then we can take entry.
+
+**HOW OUR ENTRY WOULD HAVE LOOKED LIKE :-**
+
+<img src="./assets/2022-mentorship/s37-2m.png">
+
+As you can see our daily bias was bullish to take out buy side liquidity supporting with 1h timeframe and price retraced into daily order block, took sell side liquidity where we missed the entry.
+
+After that price given `MSS` to short term high & creted the `FVG` as well, in which we was expecting price to be retraced & there is also and bullish order block which creates `MSS + FVG + OB` setup where we will be taking entry by keeping stoploss below recent swing low & targetting for imbalance which ict posted in the tweet.
+
+`Note :- Whenever you are trading fill the empty chart with such pharases that you know that price is going to do that thing in positive way & when you journal your trades alnong with charts, when you go though your trades & analysis after sometime it builds the psychology & confidence which is necessary for our profitability.`
+
+### HOW TO CHAGE GEARS WITH BIAS & HOW TO MANAGE BIAS
+
+**1d analysis :-**
+
+<img src="./assets/2022-mentorship/s38-1d.png">
+<img src="./assets/2022-mentorship/s38-1d-2.png">
+
+As you can see on daily chart previously we was moving downside on daily timeframe & recently price given BULLISH `MSS` with strong displacement which created `FVG` & price retraced into it once previoulsy & now also retraced into once more.
+
+So according to bias price will take out previous day low, buy side liquidity resting above short term high & intermediate term high.
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s38-1h.png">
+<img src="./assets/2022-mentorship/s38-1-2.png">
+
+
+As you can see price was taking out sell side liquidity prior to the bullish `MSS` & retraced into `FVG` & rallyed higher.
+
+According to daily bias we are expecting price to take out previous day high & buy side liquidity above the relative equal high's from daily timeframe.
+
+Now if we can notice there is an imbalance as well above the previous day high where price can draw to where 2 permium arrays getting combined together & price is likely to move higher itself due to our confluences.
+
+Let's drop to lower timeframe for more details.
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s38-15m.png">
+
+As we are having bullish bias according to daily timeframe & hourly timeframe, we are able to see the price swing which given `MSS` with strong displacemnt after down move which it th e most high probability one in the available `FVG'S` while price moving towards the buyside liquidity.
+
+`Note :- Not every FVG get filled & Not Every Imbalance gets rebalanced, those are just entry points where we taking entry into the move whihc we are expecting according to higher timeframe bias either its going to take liquidity or rebalancing the price.`
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s38-5m.png">
+
+<img src="./assets/2022-mentorship/s38-5m-2.png">
+
+<img src="./assets/2022-mentorship/s38-5m-3.png">
+
+As you can see we was able to see the `FVG` after giving `MSS` to short term swing high but we are not able to see that on 5m timeframe, but we are able to see the `FVG` for the `intermediate swing high MSS` whihch we will be considering for the entry as we have marked in the second image.
+
+As you can swing lots of things are getting in the confluence for the above setup, `Price below opening price (AMD) + FVG + Draw on sell side liquidity + SMT + OTE retracement` and mainly `clear MARKET STRUTURE SHIFT` to buyside by breaknig intermediate term swing high & all this confluences getting aligned in with the setup.
+
+We will be taking entry when sell side liquidity taken out as like `Smart Money` keeping our stoploss below the swing low & we will be targetting for buy side liquidity & the imbalance for partial `50%` & rest `50%` we will be booking after draw on buy side liquidity.
+
+`Note : - ICT previously expecting price to reach 4070 but price failed to trade to that price point & ICT became wrong, which is acceptable, then ict changed the gears to bullish when he saw the market structure shift to upside, smt divergence & other confluences which we have discussed above. We can be wrong, we need to accept it & we need to move on from that and look for another opportunity by follwing our trading plan.`
+
+`Note :- You can notice price hits the FVG 2 times which is okay but if it retraces more thant 2 times we need to accept that we was wrong & exit the trade if price retraces fvg more than 2 times, `
+
+`Note :- Sometimes even in the Lunch times market gives us the opportunity if market is too active & it also rallies in the lunch hours, we just need to find the opportunity which fits in our setup & we need to regorously follow it along with our trading plan.`
+
+### HOW TO SAVE OUR STOP
+
+**1d & 1h analysis :-**
+
+<img src="./assets/2022-mentorship/s39-tweet.png">
+
+<img src="./assets/2022-mentorship/s39-1d-1h.png">
+
+As you can see ICT  has tweeter that `4070` is having intrest & which means ict expecting price to be traded to `4070`.
+
+On the daily timeframe as we can see price has given bullish `MSS` to intermediate term high & created `FVG` as well but not traded yet into it, we was expecting price to take out sell side liquidity resting below the relative equal low's.
+
+Once price tiven bearish `MSS` we are looking on 1h timeframe for to checkout if it does creates `FVG` & it created.
+
+We will be patiently waiting for price to retrace into that fair value gap & we will be expecting price to retrace into `FVG` on daliy timeframe.
+
+**15m & 5m analysis :-**
+
+<img src="./assets/2022-mentorship/s38-15-5m.png">
+
+As you can see on 15m timeframe price retraced into the `houry FVG` & strongly displaced to downside, consolidated little bit & after consolidation when its took out buy side liquidity it moved towards our target for `daily FVG`.
+
+On 15m timeframe as we can see price traded into the `FVG` marked with orange area & given us opportunity to take entry into sell side.
+
+BUT
+
+SOMETHING HAPPEND IN THAT PRICE MOVEMNT THAT IT TRADED ABOVE THE OPENING PRICE & ICT TOOK EXIT OUT OF SHORT POSITION WHICH WE WILL SEE MORE IN DETAILS.
+
+**5m detailed analysis :-**
+
+<img src="./assets/2022-mentorship/s39-5m.png">
+
+You can notice the timing in which price took out buy side liquidity, Its an new york lunch hours `EST 12:00PM TO 1:00PM & IST 9:30PM TO 10:30PM` where price gives the false moves against the direction of the day & when daily range expansion they are proactive price action even in the lunch time periods.
+
+When price took out buy side liquidity, it took out the sellers stop loss who sold at previous swing low's & it drawn new buyers into the market by giving breakout, hence both side traders are trapped now & thats where SMART MONEY will sell the short to pair the buy orders of breakout artists, & will ride the whole move.
+
+When price given breakout to the swing low after draw on buy side liquidity price created our breaker as well as `BEARISH MSS + FVG` setup in which we can take entry by keeping stoploss above the swing high & we will be targetting the `daily FVG high or median` to book our target.
+
+We are able to another setup AT `EST 9:30AM & IST 7:00PM` where price took out buy side liquidity, retraced into FVG & also we having daily bias in the same direction for which we can take entry, by keepint stoploss above the previous swing high & we can target for sell side liquidity.
+
+**Afternoon setup :-**
+
+<img src="./assets/2022-mentorship/s39-1m-aft.png">
+
+As you can see in the afternoon price given bearish breaker setup which also aligns with our 2022 model as price given `MSS + FVG` while breaking previous swing low with strong displacement & it retraces into `FVG`.
+
+we will be taking entry on the retracement by keeping stoploss above previous swing high & we will be targetting for sell side liquidity.
+
+**How we have saved our stop:-**
+
+<img src="./assets/2022-mentorship/s39-1m.png">
+
+Very first thing price has completed his objective to take sell side liquidity which we have marked with 5m & price already did that & it created more area's for sell side liquiidty.
+
+But you can see price has broken through all the liquidity levels to the upside & also broken strongly the bearish order block which we was expecting as point of resistance if price still willing to go lower.
+
+But it broke market structure as well as besrih order block & also completed its objective to take sell side liquidity whcih indicating towards the `bullish MSS` and that's why we have exited the trade.
+
+`Note :- We need to focus on time rahter setups, because algorithm works based on time & we need to stick to our timings such as London kill zone & New york kill zone for finding similar setup everyday which leads to sucess rather than finding setup & opportnuties everyday no matter what time, it wont be repetable & you wont be able to find the consistency in it. Noted.`
+
+### Price delivery algorithm (Steps to approach charts)
+
+In this section we will be understanding price delivery algorithms & time price theory & how to approach chart step by step.
+
+
+**Price delivery algorithm :-**
+
+<img src="/assets/2022-mentorship/s39-pd.png">
+
+Price is delivered by an algorithm, there is no buysing selling pressure in the market, Algorithms operates on one important factor is time, at what timings of day, at what timings of week what price should do & then it approaches to the nearest important price levels which holds the liquidity either buy side or sell side and it rebalances the price if there is any imbalance present around certain price levels.
+
+For the algorithm 2-3 timings are crucial, First is `EST 12:00AM & IST 9:30AM` New york midnight open which sets the stage for current day price action, `EST 8:30AM & IST 6:00PM` which is new york open and most of the news events are released at this time & `EST 9:30AM & IST 7:00PM` at which stock markets gets open at New york & Price Delivery algorithm works on New york local timezone.
+
+At `EST 8:30AM & IST 6:00PM` on bearish days & it takes out buy side liquidity & on bullish day's takes sell side liquidity, gives `MSS with strong displacement` & if it creates `FVG` & retrace it just take the entry every single day.
+
+
+**Steps for approaching chart for analysis :-**
+
+<img src="./assets/2022-mentorship/s39-pd-2.png"> 
+
+- Checkout the daily & hourly timeframe for checking either price is drawing towards an liquidity area or its drawing towards an imbalance area & decide your bias & then only switch to lower timeframes for analysis.
+  
+- First mark the important timings of the day such as `EST 8:30AM & IST 6:00PM` as new york opening, New york midnight open.
+
+- Draw the levels where liquidity around those times & price levels and see what price does in those timezones.
+  
+- The price currently trading at the time see what is price trying to do on macros & is that macro's matching with daily bias.
+
+- If macro's matching with daily bias then look for the opportunity where price will takeout either liquidity or retraces into `FVG` and then plan the entry, sl & exit according to your trading plan.
+
+`Note :- In the first image we was not able to see how to approach the chart, what to see & what to not, but after follwing this approach consistently you will be able to see through the charts without even the markings.`
+
+### Model wrapping up on forex
+
+In this section we will be wrapping up 2022 model in forex market as its our second last lecture for the end of 2022 mentorship.
+
+**1d & 1h analysis :-**
+
+<img src="./assets/2022-mentorship/s40-1-1h.png">
+
+On the daily timeframe we are price given sweep on previous swing high liquidity but not drawn the whole liquidity, due to the same price is likely to draw on buy side liquidity, but as we know before that move it will take out sell side liquidity for for moving drastically to reach our destination.
+
+
+On the hourly timeframe we are able to see clearly the liquidty sweep for the previous swing high & price traded down to & we are expecting price to take out daily timeframe relative equal lows.
+
+So according to our higher timeframe bias as of now we are expecting downside move.
+
+**15m & 5m analysis :-**
+
+<img src="./assets/2022-mentorship/s40-15-5m.png">
+
+ICT had tweeted about to notice sellside & buyside liquidity on 5 & 15m charts.
+
+As you can see after new york kill zone open `EST 7:00AM & 10:00AM & IST 4:30PM TO 7:30PM` price took out buy side liquidity after which we will be waiting for bearish `MSS + FVG` setup.
+
+It given shallow run to sell side liquidty & created `FVG` in which we can take the entry but the displacement was not strong enough & we will be waiting for strong displacement to downside & expecting price to retrace back to FVG.
+
+If we get the entry we will be looking for price to draw sell side liquidity according to our daily bias or the imbalance drawn on chart for booking the partials.
+
+**4m analysis & Model :-**
+
+<img src="./assets/2022-mentorship/s40-4m.png">
+<img src="./assets/2022-mentorship/s40-4m-2.png">
+<img src="./assets/2022-mentorship/s40-4m-3.png">
+
+`As you can see due to strong displacement on sell side FVG having higher range & in forex specifically price expected to rebalance that price by retracing into the FVG TOP.`
+
+Rather than considering third candle high for considering `FVG` we will be considring `4th candle` high so we wont be having huge stoploss & we will be taking entry into that fair valu gap as represented in the 2nd image.
+
+After taking entry we will be keeping the stoploss according to our model itself abov the previous swing high, but as you can notice we have kept the stoploss aven above that.
+
+WHY???
+
+Because there is an `HIGHER FVG` where price can retrace possibly so for not getting out of the trade prematurely we will be keeping the soploss above the the `FVG` candle of `HIGHER FVG`.
+
+We will be targetting the imbalance which we drawn for partial profit booking & we will be exiting our rest position after draw on sell side liquidity.
+
+**EMINI S&P Revision :-**
+
+**1h analysis :-**
+
+<img src="./assets/2022-mentorship/s40-1h.png">
+
+As you can see we was expecing price to take out buy side liquidity according to our daily bias & now price is retracing in the imbalance which can act as reversal.
+
+So we will wait for `MSS` & if it gives `BULLISH MSS` means price will likely to take out buy side liquidity according to daily bias and we will be shifting to smaller timeframe for finding the setups & also its alerady in its premium.
+
+If we are willing to buy & we are clear with direction we should take entry in discounted price & if sellside then we should take entry in premium.
+
+
+**15m analysis :-**
+
+<img src="./assets/2022-mentorship/s40-15m.png">
+<img src="./assets/2022-mentorship/s40-5m.png">
+<img src="./assets/2022-mentorship/s40-5m-2.png">
+
+As you can see according to our bullish bias, price traded into an `FVG + OB` after NEW YORK MIDNIGHT OPENING in london kill zone price retraced and it was also below the opening price.
+
+If we are an london trader we can take entry by keeping stoploss below previous swing low & we will be targetting price to be rebalancing into hourly FVG.
+
+If we are not an london trader we can enter into the trade whne price is retraced into an `FVG` which caused due to `Bullish MSS` and we will be targetting for the same hourly FVG.
+
+You can notice in the new york kill zone price took out sell side liquidity which is our `market maker model` + It created `MSS + FVG` setup along with it which makes it higher probability because price will not take trade lower to our entry because it already took out sell side liquidity so.
+
+**FUTURES & FOREX CO-RELATION :-**
+
+<img src="./assets/2022-mentorship/s40-ff-cor.png">
+
+As the base currency of USDCAD is USD & if USD is dropping lower means other market will be likely to go higher.
+
+As USD is dropping lower means EMINI S&P will rise higher according to their fundamentals.
+
+### Daily Bias rules 
+
+<img src="./assets/2022-mentorship/s41-db.png">
+
+If we are struggling with daily bias, we have some set of rules for figuring out the daily bias, Please note that it will not be necessary that you will be having right daily bias everyday, Eventually with experience it will get enhanced & accuracy might also improve.
+
+**Rules :-**
+
+- **Every day bias is unrealistic :-** We wont be correct every day and we need to accept it.
+
+- **Determine the likely weekly expansion :-** We need to determine weekly bias according to liquidity its targetting & or its trying to rebalance the price and on which side.
+
+- **Look for Obvious liquidity that direction :-** Look for relative equal low's or high's where price is likely to run & checkout previously it took which side liquidity so its likely to take another side liquidity after one side's.
+
+- **Identify Imbalancec in price delivery in top down :-** We need to look for imbalances from higher timeframe to lower timeframe to make sure that if they are in sync.
+
+- **Focus On High or medum calender events date :-** Trade on only those days which are likely to have medium or high impact news because those are only days where the best setup forms.
+
+- **Look for Directional price runs in kill zones :-** The kill zone you are trading checkout where price is willing to go for draw on liquidity or rebalancing the price.
+
+
+### 2022 SERIES END
+
+This would be the last section of 2022 mentorship & we will be having look on the guidance of ICT about this mentorship along with EMINI S&P analysis.
+
+**1h analysis :-**
+
+<img src="/assets/2022-mentorship/s41-1h.png">
+
+As you can see price took out sell side liquidity as marked on the chart & we was expcting price to take out the buy side liquidity resting above the `3805` & we was planning for short trade after draw on liquidity.
+
+**15m analysis :-**
+<img src="./assets/2022-mentorship/s41-15m.png">
+
+As you can see when price took out buy side liquidity ict had entered into long position for targetting buy side liquidity resting above the `3080` level.
+
+But after that price took stoploss of ICT & retraced into `BULLISH FVG` & in the NY PM Session it given bullish `MSS` to the relative equal high's.
+
+Lets switch to lower timefrmae for more details.
+
+**5m analysis :-**
+
+<img src="./assets/2022-mentorship/s41-5m.png">
+<img src="./assets/2022-mentorship/s41-5m-2.png">
+
+As you can see after retracing into 15m `FVG` price given `BULLISH MSS + FVG` setup in the PM session after `EST 1:30PM & IST 11:00PM`.
+
+We will be taking entry on the retracement of FVG & we will be targetting buy side liquidity resting above `3080` by keeping stoploss below the previous swing low.
+
+**4m analysis :-**
+
+<img src="./assets/2022-mentorship/s41-4m.png">
+
+As you can see we have marked the `FVG` occured after `BULLISH MSS` after strong displacement ICT took the entry on that `FVG` for expecting price to go beyond `3805.50`.
+
+But It took out buy side liquidity & dropped down, this is the reason we need to book our partial profits so we will be having something booked before trade goes against us.
+
+After that it given `BEARISH MSS` but the displacement wasn't strong enough so again it given `BEARISH MSS + FVG` setup but this time with strong displacement which we can could have took entry by targetting `15M FVG` by keeping stoploss above previous swing high.
+
+**PM Session :-**
+
+<img src="./assets/2022-mentorship/s41-4m-pm.png">
+<img src="./assets/2022-mentorship/s41-4m-pm2.png">
+
+As you can see around `EST 1:00PM & IST 10:30PM` price given `MSS + FVG + OB + OTE` which is golden setup in itself.
+
+We can take entry on retracement on ob or fvg or ote & we will be targetting for the nearest buy side liquidity & futher liquidity levels for partial profit booking but our main objective would be buy side liquidity above `3080` by keeping stoploss below previuos swing low's.
+
+### Risk Management & Stoploss Trailing
+
+In this section we will be having look on risk management in the 2022 model.
+
+<img src="./assets/2022-mentorship/s41-rm.png">
+
+We need to risk 1% of our equity for the standard account but if we are trading with prop firms we need to risk only `0.25 to 1%` so with the help of that we will be able to take atleast 40 trades in the 10% drawdown & in 20 trades we can pass the challenge.
+
+If we are confident about the trade we had mastered out setup we can maximum risk 2% of standard account & we can risk `0.5% - 1%` of prop firm account.
+
+For calculating the lot size we have websites such as forexfactory.com & others according to our requirements.
+
+`Note :- If we have lost the trade then we need to cut down our risk to half & if we win the trades we keep our risk consistent to 1%.`
+
+**Stop Management :-**
+
+<img src="./assets/2022-mentorship/s41-sm.png">
+
+When our price reaches 50% our target we trail the stoploss by 25% of the risk & when price reaches to 75% of target then we can trail our stoploss to breakeven or above breakeven so you wont be in loss due to brokerage or charges.
+
+**Partial Profits :-**
+
+We need to book the partial profits from our trade because sometimes doesn't deliver price to expected price levels but whatever move it made & if we are booking partial profits out of it which means we are still in profits and the successrate as well as captital will increase eventually.
+
+
+### Important Time Zones & Timings in IST (EDT & IST)
+
+In this section we will be checking out the difference between EDT & EST timings into IST.
+
+**EST :-**
+
+Est timings are the times without daylight savings.
+
+**Openings :-**
+
+- **NY Midnight Open :-** `EST 12:00AM & IST 10:30AM`
+
+- **New york open :-** `EST 8:30AM & IST 7:00PM`
+  
+- **New york Stocks open :-** `EST 9:30AM & IST 8:00PM`
+  
+**Types of Kill Zones :-**
+
+- **Asian Kill Zone :-** `EST - 8pm TO 12am` `IST - 6:30am - 10:30am` 
+
+- **London Open Kill Zone :-** `EST - 2am TO 5am` `IST - 12:30pm - 3:30pm` 
+  
+- **New York Kill Zone :-** `EST - 7am TO 10am` `IST - 5:30pm - 8:30pm`
+
+- **London Close Kill Zone :-** `EST - 10am to 12pm` `IST - 8:30pm - 10:30pm`
+  
+
+**EDT :-**
+
+EDT are the timings on daylight savings which are Same in EST but it 1 hour prior 
+timings to IST.
+
+- **NY Midnight Open :-** `EST 12:00AM & IST 9:30AM`
+  
+- **New york open :-** `EST 8:30AM & IST 6:00PM`
+  
+- **New york Stocks open :-** `EST 9:30AM & IST 7:00PM`
+  
+**Types of Kill Zones :-**
+
+- **Asian Kill Zone :-** `EST - 8pm TO 12am` `IST - 5:30am - 9:30am` 
+
+- **London Open Kill Zone :-** `EST - 2am TO 5am` `IST - 11:30pm - 2:30pm` 
+  
+- **New York Kill Zone :-** `EST - 7am TO 10am` `IST - 4:30pm - 7:30pm`
+
+- **London Close Kill Zone :-** `EST - 10am to 12pm` `IST - 7:30pm - 9:30pm`
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
